@@ -1,0 +1,229 @@
+﻿{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "77f2b98e2cef40c8a7437518bf420e47",
+         "Item" : "5beededaad9743df90e8f07d92df153f",
+         "Asset" : "Ginger",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "77f2b98e2cef40c8a7437518bf420e47",
+         "Item" : "d34b25764fb24b629ba76d29f68de193",
+         "Asset" : "GingerStaging",
+         "Version" : "*"
+      }
+   ],
+   "Data" : [
+      {
+         "Title" : "Cyberpunk 2077",
+         "Description" : "Common files required to play Cyberpunk 2077.",
+         "Description_translate" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
+         "Tags" : [
+            ""
+         ],
+         "Description_fr" : "Fichiers communs requis pour jouer à Cyberpunk 2077.",
+         "Description_it" : "File comuni richiesti per giocare a Cyberpunk 2077.",
+         "Description_de" : "Allgemeine Dateien, die zum Spielen von Cyberpunk 2077 benötigt werden.",
+         "Description_es" : "Archivos comunes necesarios para jugar a Cyberpunk 2077.",
+         "Description_es-MX" : "Archivos comunes necesarios para jugar Cyberpunk 2077.",
+         "Description_ru" : "Общие файлы, необходимые для игры в Cyberpunk 2077.",
+         "Description_pl" : "Pliki współdzielone wymagane do gry w Cyberpunk 2077.",
+         "Description_ar" : "الملفات المشتركة مطلوبة للعب Cyberpunk 2077.",
+         "Description_ko" : "Cyberpunk 2077을 플레이하는 데 필요한 공용 파일.",
+         "Description_ja" : "『サイバーパンク2077』のプレイに必要な共用ファイル。",
+         "Description_zh-Hans" : "游玩游戏《赛博朋克 2077》所需的通用文件。",
+         "Description_zh-Hant" : "需要一般檔案方能遊玩《電馭叛客2077》。",
+         "Description_pt-BR" : "Arquivos comuns necessários para jogar Cyberpunk 2077.",
+         "Description_tr" : "Cyberpunk 2077 oynamak için gereken ortak dosyalar.",
+         "Description_th" : "ต้องมีไฟล์ที่มีร่วมกันเพื่อเล่น Cyberpunk 2077",
+         "Title_ko" : "사이버펑크 2077",
+         "Title_ja" : "サイバーパンク2077",
+         "Title_zh-Hans" : "《赛博朋克 2077》",
+         "Title_zh-Hant" : "《電馭叛客 2077》",
+         "Description_nl" : "Vereiste bestanden om Cyberpunk 2077 te spelen.",
+         "Description_sv" : "Vanliga filer som krävs för att spela Cyberpunk 2077.",
+         "Description_cs" : "Společné soubory potřebné ke hraní hry Cyberpunk 2077.",
+         "Description_da" : "Typiske filer, der kræves for at spille Cyberpunk 2077.",
+         "Description_no" : "Fellesfiler kreves for å spille Cyberpunk 2077.",
+         "Description_fi" : "Yhteiset tiedostot, jotka vaaditaan Cyberpunk 2077 -pelin pelaamiseen.",
+         "Description_pt" : "Ficheiros comuns necessários para jogar Cyberpunk 2077.",
+         "Description_hu" : "A Cyberpunk 2077 játékhoz szükséges közös fájlok.",
+         "Description_ro" : "Fișiere comune necesare pentru a juca Cyberpunk 2077.",
+         "Description_id" : "File umum yang dibutuhkan untuk memainkan Cyberpunk 2077.",
+         "Description_vi" : "Phải có các tập tin chung để chơi Cyberpunk 2077.",
+         "Description_el" : "Κοινά αρχεία που απαιτούνται για να παίξετε το Cyberpunk 2077.",
+         "Description_bg" : "Общи файлове, необходими за игра на Cyberpunk 2077.",
+         "Description_uk" : "Загальні файли, необхідні для гри в Cyberpunk 2077.",
+         "Description_hi" : "साइबरपंक 2077 खेलने के लिए आवश्यक सामान्य फ़ाइल्स।",
+         "Description_ms" : "Fail biasa yang diperlukan untuk bermain Cyberpunk 2077.",
+         "Description_fil" : "Kailangan ang mga karaniwang file para makapaglaro ng Cyberpunk 2077."
+      },
+      {
+         "Title" : "Additional Languages",
+         "Title_translate" : "true",
+         "Description" : "Includes the additional voice over languages available.",
+         "Description_translate" : "true",
+         "IsDefaultExpanded" : "true",
+         "IsRequired" : "false",
+         "UniqueId" : "27F6E03BE9E94562A35E0D530C3DDC31",
+         "ConfigHandler" : "DefaultLanguage",
+         "Children" : [
+            {
+               "Title" : "français",
+               "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
+               "ConfigValue" : "fr",
+               "Tags" : [
+                  "voice_fr_fr"
+               ]
+            },
+            {
+               "Title" : "Deutsch",
+               "UniqueId" : "5411AFEE311C476CA269834905E189A1",
+               "ConfigValue" : "de",
+               "Tags" : [
+                  "voice_de_de"
+               ]
+            },
+            {
+               "Title" : "español (España)",
+               "UniqueId" : "9E5A24CB226E40E0942B3383C18882A2",
+               "ConfigValue" : "es-ES",
+               "Tags" : [
+                  "voice_es_es"
+               ]
+            },
+            {
+               "Title" : "한국어",
+               "UniqueId" : "062411D09DA24A5C8F5BF970FAAFD559",
+               "ConfigValue" : "ko",
+               "Tags" : [
+                  "voice_ko_kr"
+               ]
+            },
+            {
+               "Title" : "日本語",
+               "UniqueId" : "E94E91C2D98D44698AF5AB9A49698830",
+               "ConfigValue" : "ja",
+               "Tags" : [
+                  "voice_ja_jp"
+               ]
+            },
+            {
+               "Title" : "中文（中国）",
+               "UniqueId" : "17089811470644EEAC341F8DF678D948",
+               "ConfigValue" : "zh-Hant",
+               "Tags" : [
+                  "voice_zh_cn"
+               ]
+            },
+            {
+               "Title" : "中文（简体）",
+               "UniqueId" : "266B31B190C647A893993C43EA4BD54A",
+               "ConfigValue" : "zh-Hans",
+               "Tags" : [
+                  "voice_zh_cn"
+               ]
+            },
+            {
+               "Title" : "italiano",
+               "UniqueId" : "9D9456505BCE4ABEABB6763191210561",
+               "ConfigValue" : "it",
+               "Tags" : [
+                  "voice_it_it"
+               ]
+            },
+            {
+               "Title" : "русский",
+               "UniqueId" : "016C279E75184A3999E6C6A89B21D249",
+               "ConfigValue" : "ru",
+               "Tags" : [
+                  "voice_ru_ru"
+               ]
+            },
+            {
+               "Title" : "português brasileiro",
+               "UniqueId" : "3AF4B791C46E4630977BCA5AC8901911",
+               "ConfigValue" : "pt-BR",
+               "Tags" : [
+                  "voice_pt_br"
+               ]
+            },
+            {
+               "Title" : "polski",
+               "UniqueId" : "48A0715044D24FB89124042314472F82",
+               "ConfigValue" : "pl",
+               "Tags" : [
+                  "voice_pl_pl"
+               ]
+            }
+         ],
+         "Title_fr" : "Langues supplémentaires",
+         "Description_fr" : "Inclut les langues supplémentaires disponibles pour les dialogues.",
+         "Title_it" : "Lingue aggiuntive",
+         "Description_it" : "Include le lingue aggiuntive di doppiaggio disponibili.",
+         "Title_de" : "Zusätzliche Sprachen",
+         "Description_de" : "Enthält zusätzliche Sprachausgabe für weitere Sprachen.",
+         "Title_es" : "Idiomas adicionales",
+         "Description_es" : "Incluye los idiomas de doblaje adicionales disponibles.",
+         "Title_es-MX" : "Idiomas adicionales",
+         "Description_es-MX" : "Incluye los archivos de voz adicionales para los idiomas disponibles.",
+         "Title_ru" : "Дополнительные языки",
+         "Description_ru" : "Включает в себя дополнительные варианты озвучения на других языках.",
+         "Title_pl" : "Dodatkowe języki",
+         "Description_pl" : "Zawiera dostępne wersje językowe z dubbingiem.",
+         "Title_ar" : "لغات إضافية",
+         "Description_ar" : "تتضمن لغات الأداء الصوتي الإضافية.",
+         "Title_ko" : "언어 추가",
+         "Description_ko" : "사용 가능한 추가 보이스오버 언어가 포함되어 있습니다.",
+         "Title_ja" : "言語の追加",
+         "Description_ja" : "指定言語に追加できるボイスを含む。",
+         "Title_zh-Hans" : "额外的语言",
+         "Description_zh-Hans" : "包含额外语言语音可用。",
+         "Title_zh-Hant" : "額外語言",
+         "Description_zh-Hant" : "包含額外的語言配音。",
+         "Title_pt-BR" : "Idiomas adicionais",
+         "Description_pt-BR" : "Inclui os idiomas de dublagem adicionais disponíveis.",
+         "Title_tr" : "Ek Diller",
+         "Description_tr" : "Var olan ek seslendirme dillerini içerir.",
+         "Title_th" : "ภาษาเพิ่มเติม",
+         "Description_th" : "รวมเสียงเพิ่มเติมในภาษาต่างๆ ซึ่งพร้อมใช้งาน",
+         "Title_nl" : "Aanvullende talen",
+         "Description_nl" : "Bevat de aanvullende beschikbare voice-overtalen.",
+         "Title_sv" : "Ytterligare språk",
+         "Description_sv" : "Inkluderar berättarröst för ytterligare tillgängliga språk.",
+         "Title_cs" : "Další jazyky",
+         "Description_cs" : "Obsahuje další dostupné jazyky dabingu.",
+         "Title_da" : "Yderligere sprog",
+         "Description_da" : "Inkluderer de ekstra tilgængelige kommentatorsprog.",
+         "Title_no" : "Ekstra språk",
+         "Description_no" : "Omfatter ytterligere tilgjengelige dubbespråk.",
+         "Title_fi" : "Muut kielet",
+         "Description_fi" : "Sisältää muut saatavilla olevat taustaselostuskielet.",
+         "Title_pt" : "Línguas adicionais",
+         "Description_pt" : "Inclui as línguas de voz adicionais disponíveis.",
+         "Title_hu" : "További nyelvek",
+         "Description_hu" : "Tartalmazza a rendelkezésre álló további nyelveket a hangalámondáshoz.",
+         "Title_ro" : "Limbi suplimentare",
+         "Description_ro" : "Include limbile suplimentare pentru dublaj disponibile.",
+         "Title_id" : "Bahasa Tambahan",
+         "Description_id" : "Termasuk suara tambahan untuk bahasa yang tersedia.",
+         "Title_vi" : "Ngôn ngữ Khác",
+         "Description_vi" : "Bao gồm các ngôn ngữ lồng tiếng khác có sẵn.",
+         "Title_el" : "Πρόσθετες γλώσσες",
+         "Description_el" : "Περιέχει τις πρόσθετες διαθέσιμες γλώσσες ομιλίας.",
+         "Title_bg" : "Допълнителни езици",
+         "Description_bg" : "Включва наличните допълнителни гласови езици.",
+         "Title_uk" : "Додаткові мови",
+         "Description_uk" : "Містить додаткові мови озвучення.",
+         "Title_hi" : "अतिरिक्त भाषाएँ",
+         "Description_hi" : "इसमें अतिरिक्त उपलब्ध वॉयस ओवर भाषाएँ भी शामिल हैं।",
+         "Title_ms" : "Bahasa Tambahan",
+         "Description_ms" : "Termasuk suara tambahan bagi bahasa yang tersedia.",
+         "Title_fil" : "Karagdagang Wika",
+         "Description_fil" : "May available na karagdagang voice over na mga wika."
+      }
+   ]
+}

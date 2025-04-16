@@ -1,0 +1,207 @@
+﻿{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "76cd63399a874c2b854fd74cda49a256",
+         "Item" : "2c805d742e1f403fa97b2460c8658785",
+         "Asset" : "fc34ef0c987a4ecd95377abce1acc4bd",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "76cd63399a874c2b854fd74cda49a256",
+         "Item" : "bdf0abaa6f414e7f81593ff996f2fb5a",
+         "Asset" : "9e8247ec1319444aaa51520e6d5efa28",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "76cd63399a874c2b854fd74cda49a256",
+         "Item" : "66a103feaccf4249b43a337c4e665236",
+         "Asset" : "80cf7badbd1e4c4ba5b8da7878050434",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "76cd63399a874c2b854fd74cda49a256",
+         "Item" : "5b8b4e0b33a940139f2943bd56216965",
+         "Asset" : "e3306721e7c64f1cbf71235bcb260d53",
+         "Version" : "*"
+      }
+   ],
+   "Data" : [
+      {
+         "Title" : "Suicide Squad: Kill the Justice League",
+         "Description" : "Common files required to play Suicide Squad: Kill the Justice League.",
+         "Description_translate" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
+         "Tags" : [
+            ""
+         ],
+         "Description_fr" : "Fichiers requis pour jouer à Suicide Squad: Kill the Justice League.",
+         "Description_it" : "File comuni richiesti per giocare a Suicide Squad: Kill the Justice League.",
+         "Description_de" : "Gemeinsame Dateien, die zum Spielen von Suicide Squad: Kill the Justice League benötigt werden.",
+         "Description_es" : "Archivos comunes necesarios para jugar a Suicide Squad: Kill the Justice League.",
+         "Description_es-MX" : "Archivos comunes necesarios para jugar Suicide Squad: Kill the Justice League.",
+         "Description_ru" : "Общие файлы, необходимые для игры в «Отряд самоубийц: Конец Лиги справедливости».",
+         "Description_pl" : "Pliki współdzielone są wymagane do uruchomienia gry Legion Samobójców: Śmierć Lidze Sprawiedliwości.",
+         "Description_ar" : "الملفات المشتركة المطلوبة للعب سويسايد سكواد: أقتل الجاستس ليج.",
+         "Description_ko" : "수어사이드 스쿼드: 킬 더 저스티스 리그를 플레이하려면 공통 파일이 필요합니다.",
+         "Description_ja" : "『スーサイド・スクワッド キル・ザ・ジャスティス・リーグ』をプレイするには共用ファイルが必要です。",
+         "Description_zh-Hans" : "游玩《自杀小队：战胜正义联盟》所需的通用文件。",
+         "Description_zh-Hant" : "需要一般檔案方能遊玩《自殺突擊隊：戰勝正義聯盟》。",
+         "Description_pt-BR" : "Arquivos comuns necessários para jogar Esquadrão Suicida: Mate a Liga da Justiça.",
+         "Description_tr" : "Suicide Squad: Kill the Justice League'i oynamak için gereken ortak dosyalar.",
+         "Description_th" : "ต้องมีไฟล์ที่มีร่วมกันเพื่อเล่น Suicide Squad: Kill the Justice League",
+         "Description_nl" : "Vereiste gemeenschappelijke bestanden om Suicide Squad: Kill the Justice League te spelen.",
+         "Description_sv" : "Vanliga filer som krävs för att spela Suicide Squad: Kill the Justice League.",
+         "Description_cs" : "Společné soubory potřebné ke hraní hry Suicide Squad: Kill the Justice League.",
+         "Description_da" : "Typiske filer, der kræves for at spille Suicide Squad: Kill the Justice League.",
+         "Description_no" : "Fellesfiler kreves for å spille Suicide Squad: Kill the Justice League.",
+         "Description_fi" : "Yhteiset tiedostot, jotka vaaditaan Suicide Squad: Kill the Justice League -pelin pelaamiseen.",
+         "Description_pt" : "Ficheiros comuns necessários para jogar Suicide Squad: Kill the Justice League.",
+         "Description_hu" : "A Suicide Squad: Kill the Justice League játékhoz szükséges közös fájlok.",
+         "Description_ro" : "Fișiere comune necesare pentru a juca Suicide Squad: Kill the Justice League.",
+         "Description_id" : "File umum yang dibutuhkan untuk memainkan Suicide Squad: Kill the Justice League.",
+         "Description_vi" : "Phải có các tập tin chung để chơi Suicide Squad: Kill the Justice League.",
+         "Description_el" : "Κοινά αρχεία που απαιτούνται για να παίξετε το Suicide Squad: Kill the Justice League.",
+         "Description_bg" : "Общи файлове, необходими за игра на Suicide Squad: Kill the Justice League.",
+         "Description_uk" : "Загальні файли, необхідні для гри в Suicide Squad: Kill the Justice League.",
+         "Description_hi" : "सुसाइड स्क्वाड: किल द जस्टिस लीग खेलने के लिए आवश्यक सामान्य फ़ाइल्स।",
+         "Description_ms" : "Fail biasa yang diperlukan untuk bermain Suicide Squad: Kill the Justice League.",
+         "Description_fil" : "Kailangan ang mga karaniwang file para makapaglaro ng Suicide Squad: Patayin ang Justice League."
+      },
+      {
+         "Title" : "Additional Languages",
+         "Title_translate" : "true",
+         "Description" : "Includes the additional voice over languages available.",
+         "Description_translate" : "true",
+         "IsDefaultExpanded" : "true",
+         "IsRequired" : "false",
+         "UniqueId" : "27F6E03BE9E94562A35E0D530C3DDC31",
+         "ConfigHandler" : "DefaultLanguage",
+         "Children" : [
+            {
+               "Title" : "français",
+               "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
+               "ConfigValue" : "fr",
+               "Tags" : [
+                  "loc_fr"
+               ]
+            },
+            {
+               "Title" : "Deutsch",
+               "UniqueId" : "5411AFEE311C476CA269834905E189A1",
+               "ConfigValue" : "de",
+               "Tags" : [
+                  "loc_german"
+               ]
+            },
+            {
+               "Title" : "español (México)",
+               "UniqueId" : "D6B74DEABC284AACA70314CFEBD0499B",
+               "ConfigValue" : "es-MX",
+               "Tags" : [
+                  "loc_es-419"
+               ]
+            },
+            {
+               "Title" : "español (España)",
+               "UniqueId" : "9E5A24CB226E40E0942B3383C18882A2",
+               "ConfigValue" : "es-ES",
+               "Tags" : [
+                  "loc_es"
+               ]
+            },
+            {
+               "Title" : "日本語",
+               "UniqueId" : "E94E91C2D98D44698AF5AB9A49698830",
+               "ConfigValue" : "ja",
+               "Tags" : [
+                  "loc_ja"
+               ]
+            },
+            {
+               "Title" : "português",
+               "UniqueId" : "3AF4B791C46E4630977BCA5AC8901911",
+               "ConfigValue" : "pt-BR",
+               "Tags" : [
+                  "loc_pt-BR"
+               ]
+            },
+            {
+               "Title" : "italiano",
+               "UniqueId" : "9D9456505BCE4ABEABB6763191210561",
+               "ConfigValue" : "it",
+               "Tags" : [
+                  "loc_it"
+               ]
+            }
+         ],
+         "Title_fr" : "Langues supplémentaires",
+         "Description_fr" : "Inclut les langues supplémentaires disponibles pour les dialogues.",
+         "Title_de" : "Zusätzliche Sprachen",
+         "Description_de" : "Enthält zusätzliche Sprachausgabe für weitere Sprachen.",
+         "Title_ru" : "Дополнительные языки",
+         "Description_ru" : "Включает в себя дополнительные варианты озвучения на других языках.",
+         "Title_ko" : "언어 추가",
+         "Description_ko" : "사용 가능한 추가 보이스오버 언어가 포함되어 있습니다.",
+         "Title_tr" : "Ek Diller",
+         "Description_tr" : "Var olan ek seslendirme dillerini içerir.",
+         "Title_it" : "Lingue aggiuntive",
+         "Description_it" : "Include le lingue aggiuntive di doppiaggio disponibili.",
+         "Title_es" : "Idiomas adicionales",
+         "Description_es" : "Incluye los idiomas de doblaje adicionales disponibles.",
+         "Title_es-MX" : "Idiomas adicionales",
+         "Description_es-MX" : "Incluye los archivos de voz adicionales para los idiomas disponibles.",
+         "Title_pl" : "Dodatkowe języki",
+         "Description_pl" : "Zawiera dostępne wersje językowe z dubbingiem.",
+         "Title_ar" : "لغات إضافية",
+         "Description_ar" : "تتضمن لغات الأداء الصوتي الإضافية.",
+         "Title_ja" : "言語の追加",
+         "Description_ja" : "指定言語に追加できるボイスを含む。",
+         "Title_zh-CN" : "额外的语言",
+         "Description_zh-CN" : "包含额外语言语音可用。",
+         "Title_pt-BR" : "Idiomas adicionais",
+         "Description_pt-BR" : "Inclui os idiomas de dublagem adicionais disponíveis.",
+         "Title_zh-Hant" : "額外語言",
+         "Description_zh-Hant" : "包含額外的語言配音。",
+         "Title_th" : "ภาษาเพิ่มเติม",
+         "Description_th" : "รวมเสียงเพิ่มเติมในภาษาต่างๆ ซึ่งพร้อมใช้งาน",
+         "Title_zh-Hans" : "额外的语言",
+         "Description_zh-Hans" : "包含额外语言语音可用。",
+         "Title_nl" : "Aanvullende talen",
+         "Description_nl" : "Bevat de aanvullende beschikbare voice-overtalen.",
+         "Title_sv" : "Ytterligare språk",
+         "Description_sv" : "Inkluderar berättarröst för ytterligare tillgängliga språk.",
+         "Title_cs" : "Další jazyky",
+         "Description_cs" : "Obsahuje další dostupné jazyky dabingu.",
+         "Title_da" : "Yderligere sprog",
+         "Description_da" : "Inkluderer de ekstra tilgængelige kommentatorsprog.",
+         "Title_no" : "Ekstra språk",
+         "Description_no" : "Omfatter ytterligere tilgjengelige dubbespråk.",
+         "Title_fi" : "Muut kielet",
+         "Description_fi" : "Sisältää muut saatavilla olevat taustaselostuskielet.",
+         "Title_pt" : "Línguas adicionais",
+         "Description_pt" : "Inclui as línguas de voz adicionais disponíveis.",
+         "Title_hu" : "További nyelvek",
+         "Description_hu" : "Tartalmazza a rendelkezésre álló további nyelveket a hangalámondáshoz.",
+         "Title_ro" : "Limbi suplimentare",
+         "Description_ro" : "Include limbile suplimentare pentru dublaj disponibile.",
+         "Title_id" : "Bahasa Tambahan",
+         "Description_id" : "Termasuk suara tambahan untuk bahasa yang tersedia.",
+         "Title_vi" : "Ngôn ngữ Khác",
+         "Description_vi" : "Bao gồm các ngôn ngữ lồng tiếng khác có sẵn.",
+         "Title_el" : "Πρόσθετες γλώσσες",
+         "Description_el" : "Περιέχει τις πρόσθετες διαθέσιμες γλώσσες ομιλίας.",
+         "Title_bg" : "Допълнителни езици",
+         "Description_bg" : "Включва наличните допълнителни гласови езици.",
+         "Title_uk" : "Додаткові мови",
+         "Description_uk" : "Містить додаткові мови озвучення.",
+         "Title_hi" : "अतिरिक्त भाषाएँ",
+         "Description_hi" : "इसमें अतिरिक्त उपलब्ध वॉयस ओवर भाषाएँ भी शामिल हैं।",
+         "Title_ms" : "Bahasa Tambahan",
+         "Description_ms" : "Termasuk suara tambahan bagi bahasa yang tersedia.",
+         "Title_fil" : "Karagdagang Wika",
+         "Description_fil" : "May available na karagdagang voice over na mga wika."
+      }
+   ]
+}

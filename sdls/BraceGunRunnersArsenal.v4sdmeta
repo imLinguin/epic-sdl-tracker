@@ -1,0 +1,165 @@
+﻿{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "3428aaab2c674c98b3acb789dcfaa548",
+         "Item" : "8639c764126147a49fba4e79d4b12e3c",
+         "Asset" : "7dcfb9cd9d134728b2646466c34c7b3b",
+         "Version" : "*"
+      }
+   ],
+   "Data" : [
+      {
+         "Title" : "Gun Runners Arsenal DLC",
+         "Description" : "Common files required to play Gun Runners Arsenal DLC.",
+         "Description_translate" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
+         "Tags" : [
+            ""
+         ],
+         "Description_fr" : "Fichiers requis pour jouer au DLC Gun Runners' Arsenal.",
+         "Description_it" : "File comuni richiesti per giocare al DLC Gun Runners' Arsenal.",
+         "Description_de" : "Allgemeine Dateien, die zum Spielen des DLC „Gun Runners' Arsenal“ benötigt werden.",
+         "Description_es" : "Archivos comunes necesarios para jugar al contenido descargable Gun Runners' Arsenal.",
+         "Description_es-MX" : "Archivos comunes necesarios para jugar el DLC Gun Runners' Arsenal.",
+         "Description_ru" : "Общие файлы, необходимые для игры в Gun Runners' Arsenal DLC.",
+         "Description_pl" : "Pliki współdzielone są wymagane do uruchomienia Gun Runners' Arsenal DLC.",
+         "Description_ar" : "الملفات المشتركة المطلوبة للعب المحتوى القابل للتنزيل لـ Gun Runners' Arsenal.",
+         "Description_ko" : "Gun Runners' Arsenal DLC를 플레이하려면 공통 파일이 필요합니다.",
+         "Description_ja" : "DLC「Gun Runners' Arsenal」のプレイに必要な共用ファイル。",
+         "Description_zh-Hans" : "游玩 Gun Runners' Arsenal DLC 所需的通用文件。",
+         "Description_zh-Hant" : "需要一般檔案方能遊玩「Gun Runners' Arsenal」DLC。",
+         "Description_pt-BR" : "Arquivos comuns necessários para jogar o DLC Gun Runners' Arsenal.",
+         "Description_tr" : "Gun Runners' Arsenal DLC'sini oynamak için gereken ortak dosyalar.",
+         "Description_th" : "ต้องมีไฟล์ที่มีร่วมกันเพื่อเล่น Gun Runners' Arsenal DLC",
+         "Description_nl" : "Vereiste gemeenschappelijke bestanden om Gun Runners Arsenal DLC te spelen.",
+         "Description_sv" : "Vanliga filer som krävs för att spela Gun Runners Arsenal DLC.",
+         "Description_cs" : "Společné soubory potřebné ke hraní DLC Gun Runners Arsenal.",
+         "Description_da" : "Typiske filer, der kræves for at spille Gun Runners Arsenal-DLC.",
+         "Description_no" : "Fellesfiler kreves for å spille Gun Runners Arsenal DLC.",
+         "Description_fi" : "Yhteiset tiedostot, jotka vaaditaan Gun Runners Arsenal DLC -pelin pelaamiseen.",
+         "Description_pt" : "Ficheiros comuns necessários para jogar o DLC Gun Runners Arsenal.",
+         "Description_hu" : "A Gun Runners Arsenal DLC-hez szükséges közös fájlok.",
+         "Description_ro" : "Fișiere comune necesare pentru a juca DLC-ul Gun Runners Arsenal.",
+         "Description_id" : "File umum yang dibutuhkan untuk memainkan DLC Gun Runners Arsenal.",
+         "Description_vi" : "Phải có các tập tin chung để chơi Gun Runners Arsenal DLC.",
+         "Description_el" : "Κοινά αρχεία που απαιτούνται για να παίξετε το Gun Runners Arsenal DLC.",
+         "Description_bg" : "Общи файлове, необходими за игра на Gun Runners Arsenal DLC.",
+         "Description_uk" : "Загальні файли, необхідні для гри в завантажуваний уміст Gun Runners Arsenal.",
+         "Description_hi" : "Gun Runners Arsenal DLC खेलने के लिए आवश्यक सामान्य फ़ाइल्स।",
+         "Description_ms" : "Fail biasa yang diperlukan untuk bermain Gun Runners Arsenal DLC.",
+         "Description_fil" : "Kailangan ang mga karaniwang file para makapaglaro ng Gun Runners Arsenal DLC."
+      },
+      {
+         "Title" : "Additional Languages",
+         "Title_translate" : "true",
+         "Description" : "Includes the additional voice over languages available.",
+         "Description_translate" : "true",
+         "IsDefaultExpanded" : "true",
+         "IsRequired" : "false",
+         "UniqueId" : "27F6E03BE9E94562A35E0D530C3DDC31",
+         "ConfigHandler" : "DefaultLanguage",
+         "Children" : [
+            {
+               "Title" : "français",
+               "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
+               "ConfigValue" : "fr",
+               "Tags" : [
+                  "french"
+               ]
+            },
+            {
+               "Title" : "Deutsch",
+               "UniqueId" : "5411AFEE311C476CA269834905E189A1",
+               "ConfigValue" : "de",
+               "Tags" : [
+                  "german"
+               ]
+            },
+            {
+               "Title" : "español (España)",
+               "UniqueId" : "9E5A24CB226E40E0942B3383C18882A2",
+               "ConfigValue" : "es-ES",
+               "Tags" : [
+                  "spanish"
+               ]
+            },
+            {
+               "Title" : "italiano",
+               "UniqueId" : "9D9456505BCE4ABEABB6763191210561",
+               "ConfigValue" : "it",
+               "Tags" : [
+                  "italian"
+               ]
+            }
+         ],
+         "Title_fr" : "Langues supplémentaires",
+         "Description_fr" : "Inclut les langues supplémentaires disponibles pour les dialogues.",
+         "Title_de" : "Zusätzliche Sprachen",
+         "Description_de" : "Enthält zusätzliche Sprachausgabe für weitere Sprachen.",
+         "Title_ru" : "Дополнительные языки",
+         "Description_ru" : "Включает в себя дополнительные варианты озвучения на других языках.",
+         "Title_ko" : "언어 추가",
+         "Description_ko" : "사용 가능한 추가 보이스오버 언어가 포함되어 있습니다.",
+         "Title_tr" : "Ek Diller",
+         "Description_tr" : "Var olan ek seslendirme dillerini içerir.",
+         "Title_it" : "Lingue aggiuntive",
+         "Description_it" : "Include le lingue aggiuntive di doppiaggio disponibili.",
+         "Title_es" : "Idiomas adicionales",
+         "Description_es" : "Incluye los idiomas de doblaje adicionales disponibles.",
+         "Title_es-MX" : "Idiomas adicionales",
+         "Description_es-MX" : "Incluye los archivos de voz adicionales para los idiomas disponibles.",
+         "Title_pl" : "Dodatkowe języki",
+         "Description_pl" : "Zawiera dostępne wersje językowe z dubbingiem.",
+         "Title_ar" : "لغات إضافية",
+         "Description_ar" : "تتضمن لغات الأداء الصوتي الإضافية.",
+         "Title_ja" : "言語の追加",
+         "Description_ja" : "指定言語に追加できるボイスを含む。",
+         "Title_zh-CN" : "额外的语言",
+         "Description_zh-CN" : "包含额外语言语音可用。",
+         "Title_pt-BR" : "Idiomas adicionais",
+         "Description_pt-BR" : "Inclui os idiomas de dublagem adicionais disponíveis.",
+         "Title_zh-Hant" : "額外語言",
+         "Description_zh-Hant" : "包含額外的語言配音。",
+         "Title_th" : "ภาษาเพิ่มเติม",
+         "Description_th" : "รวมเสียงเพิ่มเติมในภาษาต่างๆ ซึ่งพร้อมใช้งาน",
+         "Title_zh-Hans" : "额外的语言",
+         "Description_zh-Hans" : "包含额外语言语音可用。",
+         "Title_nl" : "Aanvullende talen",
+         "Description_nl" : "Bevat de aanvullende beschikbare voice-overtalen.",
+         "Title_sv" : "Ytterligare språk",
+         "Description_sv" : "Inkluderar berättarröst för ytterligare tillgängliga språk.",
+         "Title_cs" : "Další jazyky",
+         "Description_cs" : "Obsahuje další dostupné jazyky dabingu.",
+         "Title_da" : "Yderligere sprog",
+         "Description_da" : "Inkluderer de ekstra tilgængelige kommentatorsprog.",
+         "Title_no" : "Ekstra språk",
+         "Description_no" : "Omfatter ytterligere tilgjengelige dubbespråk.",
+         "Title_fi" : "Muut kielet",
+         "Description_fi" : "Sisältää muut saatavilla olevat taustaselostuskielet.",
+         "Title_pt" : "Línguas adicionais",
+         "Description_pt" : "Inclui as línguas de voz adicionais disponíveis.",
+         "Title_hu" : "További nyelvek",
+         "Description_hu" : "Tartalmazza a rendelkezésre álló további nyelveket a hangalámondáshoz.",
+         "Title_ro" : "Limbi suplimentare",
+         "Description_ro" : "Include limbile suplimentare pentru dublaj disponibile.",
+         "Title_id" : "Bahasa Tambahan",
+         "Description_id" : "Termasuk suara tambahan untuk bahasa yang tersedia.",
+         "Title_vi" : "Ngôn ngữ Khác",
+         "Description_vi" : "Bao gồm các ngôn ngữ lồng tiếng khác có sẵn.",
+         "Title_el" : "Πρόσθετες γλώσσες",
+         "Description_el" : "Περιέχει τις πρόσθετες διαθέσιμες γλώσσες ομιλίας.",
+         "Title_bg" : "Допълнителни езици",
+         "Description_bg" : "Включва наличните допълнителни гласови езици.",
+         "Title_uk" : "Додаткові мови",
+         "Description_uk" : "Містить додаткові мови озвучення.",
+         "Title_hi" : "अतिरिक्त भाषाएँ",
+         "Description_hi" : "इसमें अतिरिक्त उपलब्ध वॉयस ओवर भाषाएँ भी शामिल हैं।",
+         "Title_ms" : "Bahasa Tambahan",
+         "Description_ms" : "Termasuk suara tambahan bagi bahasa yang tersedia.",
+         "Title_fil" : "Karagdagang Wika",
+         "Description_fil" : "May available na karagdagang voice over na mga wika."
+      }
+   ]
+}

@@ -1,0 +1,194 @@
+﻿{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "p-dgrkwvdsxudyf8lqa4wwwlkby9ed67",
+         "Item" : "9a045c9990eb4f30a029b53bb77b369a",
+         "Asset" : "278984b84235407d922da634b9d7d247",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "p-dycazcxrr79zb7cqt8bbjekwna3jya",
+         "Item" : "9a045c9990eb4f30a029b53bb77b369a",
+         "Asset" : "278984b84235407d922da634b9d7d247",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "e5429798296d4f78b8090f243b00cf11",
+         "Item" : "9a045c9990eb4f30a029b53bb77b369a",
+         "Asset" : "278984b84235407d922da634b9d7d247",
+         "Version" : "*"
+      }
+   ],
+   "Data" : [
+      {
+         "Title" : "Kingdom Come: Deliverance 2",
+         "Description" : "Common files required to play Kingdom Come: Deliverance 2.",
+         "Description_translate" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
+         "Tags" : [
+            ""
+         ],
+         "Description_fr" : "Fichiers généralement nécessaires pour pouvoir jouer à Kingdom Come: Deliverance 2.",
+         "Description_it" : "File comuni richiesti per giocare a Kingdom Come: Deliverance 2.",
+         "Description_de" : "Gemeinsame Dateien, die zum Spielen von Kingdom Come: Deliverance 2 erforderlich sind",
+         "Description_es" : "Archivos comunes necesarios para jugar a Kingdom Come: Deliverance 2.",
+         "Description_es-MX" : "Archivos comunes requeridos para jugar Kingdom Come: Deliverance 2.",
+         "Description_ru" : "Файлы, необходимые для игры в Kingdom Come: Deliverance 2.",
+         "Description_pl" : "Pliki wspólne wymagane do gry w Kingdom Come: Deliverance 2.",
+         "Description_ar" : "الملفات المشتركة المطلوبة للعب Kingdom Come: Deliverance 2.",
+         "Description_ko" : "Kingdom Come: Deliverance 2를 플레이하려면 공용 파일이 필요합니다.",
+         "Description_ja" : "『Kingdom Come: Deliverance 2』のプレイに必要な共用ファイル。",
+         "Description_zh-Hans" : "游玩《天国：拯救 2》所需的常见文件。",
+         "Description_zh-Hant" : "遊玩《Kingdom Come: Deliverance 2》所需的常見文件。",
+         "Description_pt-BR" : "Arquivos comuns necessários para jogar Kingdom Come: Deliverance 2.",
+         "Description_tr" : "Kingdom Come: Deliverance 2 oynamak için gereken ortak dosyalar.",
+         "Description_th" : "จำเป็นต้องมีไฟล์ที่มีร่วมกันเพื่อเล่น Kingdom Come: Deliverance 2",
+         "Description_nl" : "Algemene bestanden die nodig zijn voor het spelen van Kingdom Come: Deliverance 2.",
+         "Description_sv" : "Vanliga filer som krävs för att spela Kingdom Come: Deliverance 2.",
+         "Description_cs" : "Společné soubory potřebné ke hraní Kingdom Come: Deliverance 2.",
+         "Description_da" : "Typiske filer, der kræves for at spille Kingdom Come: Deliverance 2.",
+         "Description_no" : "Fellesfiler nødvendig for å spille Kingdom Come: Deliverance 2.",
+         "Description_fi" : "Yleisiä tiedostoja, joita vaaditaan pelin Kingdom Come: Deliverance 2 pelaamiseen.",
+         "Description_pt" : "Ficheiros comuns necessários para jogar Kingdom Come: Deliverance 2.",
+         "Description_hu" : "A Kingdom Come: Deliverance 2 játékhoz szükséges közös fájlok.",
+         "Description_ro" : "Fișiere comune necesare pentru a juca Kingdom Come: Deliverance 2.",
+         "Description_id" : "File umum diperlukan untuk memainkan Kingdom Come: Deliverance 2.",
+         "Description_vi" : "Các tệp chung cần có để chơi Kingdom Come: Deliverance 2.",
+         "Description_el" : "Κοινά αρχεία που απαιτούνται για να παίξετε Kingdom Come: Deliverance 2.",
+         "Description_bg" : "Обичайни файлове, необходими за стартиране на Kingdom Come: Deliverance 2.",
+         "Description_uk" : "Загальні файли, необхідні для гри в Kingdom Come: Deliverance 2.",
+         "Description_hi" : "Kingdom Come: Deliverance 2 खेलने के लिए आवश्यक सामान्य फ़ाइलें।",
+         "Description_ms" : "Fail biasa diperlukan untuk memainkan Kingdom Come: Deliverance 2.",
+         "Description_fil" : "Mga karaniwang file na kailangan para maglaro ng Kingdom Come: Deliverance 2."
+      },
+      {
+         "Title" : "Additional Languages",
+         "Title_translate" : "true",
+         "Description" : "Includes the additional voice over languages available.",
+         "Description_translate" : "true",
+         "IsDefaultExpanded" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "27F6E03BE9E94562A35E0D530C3DDC31",
+         "ConfigHandler" : "DefaultLanguage",
+         "Children" : [
+            {
+               "Title" : "English",
+               "UniqueId" : "55AC1DA45D934A17B2EA821A31B37453",
+               "ConfigValue" : "en",
+               "IsDefaultSelected" : "true",
+               "Tags" : [
+                  "english"
+               ]
+            },
+            {
+               "Title" : "français",
+               "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
+               "ConfigValue" : "fr",
+               "Tags" : [
+                  "french"
+               ]
+            },
+            {
+               "Title" : "Deutsch",
+               "UniqueId" : "5411AFEE311C476CA269834905E189A1",
+               "ConfigValue" : "de",
+               "Tags" : [
+                  "german"
+               ]
+            },
+            {
+               "Title" : "español (España)",
+               "UniqueId" : "9E5A24CB226E40E0942B3383C18882A2",
+               "ConfigValue" : "es-ES",
+               "Tags" : [
+                  "spanish"
+               ]
+            },
+            {
+               "Title" : "日本語",
+               "UniqueId" : "E94E91C2D98D44698AF5AB9A49698830",
+               "ConfigValue" : "ja",
+               "Tags" : [
+                  "japanese"
+               ]
+            },
+            {
+               "Title" : "Czech",
+               "UniqueId" : "C97435F96AA3446E9C3029E7B4E2B944",
+               "ConfigValue" : "cs",
+               "Tags" : [
+                  "czech"
+               ]
+            }
+         ],
+         "Title_fr" : "Langues supplémentaires",
+         "Description_fr" : "Inclut les langues supplémentaires disponibles pour les dialogues.",
+         "Title_de" : "Zusätzliche Sprachen",
+         "Description_de" : "Enthält zusätzliche Sprachausgabe für weitere Sprachen.",
+         "Title_ru" : "Дополнительные языки",
+         "Description_ru" : "Включает в себя дополнительные варианты озвучения на других языках.",
+         "Title_ko" : "언어 추가",
+         "Description_ko" : "사용 가능한 추가 보이스오버 언어가 포함되어 있습니다.",
+         "Title_tr" : "Ek Diller",
+         "Description_tr" : "Var olan ek seslendirme dillerini içerir.",
+         "Title_it" : "Lingue aggiuntive",
+         "Description_it" : "Include le lingue aggiuntive di doppiaggio disponibili.",
+         "Title_es" : "Idiomas adicionales",
+         "Description_es" : "Incluye los idiomas de doblaje adicionales disponibles.",
+         "Title_es-MX" : "Idiomas adicionales",
+         "Description_es-MX" : "Incluye los archivos de voz adicionales para los idiomas disponibles.",
+         "Title_pl" : "Dodatkowe języki",
+         "Description_pl" : "Zawiera dostępne wersje językowe z dubbingiem.",
+         "Title_ar" : "لغات إضافية",
+         "Description_ar" : "تتضمن لغات الأداء الصوتي الإضافية.",
+         "Title_ja" : "言語の追加",
+         "Description_ja" : "指定言語に追加できるボイスを含む。",
+         "Title_zh-CN" : "额外的语言",
+         "Description_zh-CN" : "包含额外语言语音可用。",
+         "Title_pt-BR" : "Idiomas adicionais",
+         "Description_pt-BR" : "Inclui os idiomas de dublagem adicionais disponíveis.",
+         "Title_zh-Hant" : "額外語言",
+         "Description_zh-Hant" : "包含額外的語言配音。",
+         "Title_th" : "ภาษาเพิ่มเติม",
+         "Description_th" : "รวมเสียงเพิ่มเติมในภาษาต่างๆ ซึ่งพร้อมใช้งาน",
+         "Title_zh-Hans" : "额外的语言",
+         "Description_zh-Hans" : "包含额外语言语音可用。",
+         "Title_nl" : "Aanvullende talen",
+         "Description_nl" : "Bevat de aanvullende beschikbare voice-overtalen.",
+         "Title_sv" : "Ytterligare språk",
+         "Description_sv" : "Inkluderar berättarröst för ytterligare tillgängliga språk.",
+         "Title_cs" : "Další jazyky",
+         "Description_cs" : "Obsahuje další dostupné jazyky dabingu.",
+         "Title_da" : "Yderligere sprog",
+         "Description_da" : "Inkluderer de ekstra tilgængelige kommentatorsprog.",
+         "Title_no" : "Ekstra språk",
+         "Description_no" : "Omfatter ytterligere tilgjengelige dubbespråk.",
+         "Title_fi" : "Muut kielet",
+         "Description_fi" : "Sisältää muut saatavilla olevat taustaselostuskielet.",
+         "Title_pt" : "Línguas adicionais",
+         "Description_pt" : "Inclui as línguas de voz adicionais disponíveis.",
+         "Title_hu" : "További nyelvek",
+         "Description_hu" : "Tartalmazza a rendelkezésre álló további nyelveket a hangalámondáshoz.",
+         "Title_ro" : "Limbi suplimentare",
+         "Description_ro" : "Include limbile suplimentare pentru dublaj disponibile.",
+         "Title_id" : "Bahasa Tambahan",
+         "Description_id" : "Termasuk suara tambahan untuk bahasa yang tersedia.",
+         "Title_vi" : "Ngôn ngữ Khác",
+         "Description_vi" : "Bao gồm các ngôn ngữ lồng tiếng khác có sẵn.",
+         "Title_el" : "Πρόσθετες γλώσσες",
+         "Description_el" : "Περιέχει τις πρόσθετες διαθέσιμες γλώσσες ομιλίας.",
+         "Title_bg" : "Допълнителни езици",
+         "Description_bg" : "Включва наличните допълнителни гласови езици.",
+         "Title_uk" : "Додаткові мови",
+         "Description_uk" : "Містить додаткові мови озвучення.",
+         "Title_hi" : "अतिरिक्त भाषाएँ",
+         "Description_hi" : "इसमें अतिरिक्त उपलब्ध वॉयस ओवर भाषाएँ भी शामिल हैं।",
+         "Title_ms" : "Bahasa Tambahan",
+         "Description_ms" : "Termasuk suara tambahan bagi bahasa yang tersedia.",
+         "Title_fil" : "Karagdagang Wika",
+         "Description_fil" : "May available na karagdagang voice over na mga wika."
+      }
+   ]
+}

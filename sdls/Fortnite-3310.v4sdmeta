@@ -1,0 +1,1176 @@
+﻿{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "fn",
+         "Item" : "4fe75bbc5a674f4f9b356b5c90567da5",
+         "Asset" : "Fortnite",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "25ce090e8a0849118cf6484f78206982",
+         "Asset" : "FortniteAthena",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "07dd3cfbd98b4d69bb2b974f58bd3c74",
+         "Asset" : "FortniteLiveTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "83802f6bd9a74f1e88af9a667a12602a",
+         "Asset" : "FortniteExtQAReleaseTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "1c050f17aed04ca5a7db4a39fcfd8dfb",
+         "Asset" : "FortniteExtQAReleaseTestingB",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "ae73afaf60db40bda18d42adca5036b5",
+         "Asset" : "FortniteRedExtQADevTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "1347491024fb42dc8b9b75214db2af87",
+         "Asset" : "FortniteLocTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "aca952d51fb74bb38c518a1a36eee402",
+         "Asset" : "FortniteDevPlaytest",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "6a049cc0655f4a5883784c1425c6c136",
+         "Asset" : "FortniteDevPlaytestL",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "c2530f49161e47c49adedf442d24876e",
+         "Asset" : "FortniteDevPlaytestQ",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "a3189536ff524690920352d4168824b8",
+         "Asset" : "FortniteDevPlaytestV",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "34470ec31a7c454d896ccc0b3b0139bb",
+         "Asset" : "FortniteDevPlaytestH",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "4017620c88774e4f8723f44f462547d0",
+         "Asset" : "FortniteMobileCert",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "d33ffa757d1c402b9fd37b8b634a4717",
+         "Asset" : "FortniteVKReleaseDaily",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "b94cb13d85154b2480d7825c2283e916",
+         "Asset" : "FortnitePredeployA",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fdb8e4fe4ddd40b7b2378bc584acec6a",
+         "Asset" : "FortnitePredeployB",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "602ec7ce08d04483bebe24510f52495b",
+         "Asset" : "FortniteDailyReleaseB",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "587731d5da6b46158faffc9ddcb23d1a",
+         "Asset" : "FortniteDailyReleaseC",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "b4cf457d7b33451ebc312c272e7f167c",
+         "Asset" : "FortniteBurnout",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "6027635d656d4766b251c2a40d4e8535",
+         "Asset" : "FortniteFlapper",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fb52b344175f4a1eaefa606f3fb0323a",
+         "Asset" : "db6bb6e33eca4c09b4a784ac946ec36a",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "868c080a26f04e749098b46e177378d1",
+         "Asset" : "FortniteFloss",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7a0414c01bcd4d7faa9c8a5df212275b",
+         "Asset" : "c1f0558cb28840d6b9bba461ed3dda9f",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "124c9a1aabcd4bb7ad149d86797643a3",
+         "Asset" : "f8b23696b587415d89566e405fbde4f4",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "c01e4731ffed4cf2a6926dfbfc6dea50",
+         "Asset" : "FortniteBubbles",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "2c7f077ef11344c1869831be84e9326c",
+         "Asset" : "FortniteDevPlaytestW",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "f89c1a57e9114dcbbbb2285850facdef",
+         "Asset" : "FortniteDevPlaytestK",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "0d5c7602ed6f4a70953bb09a0e9912f9",
+         "Asset" : "FortniteBlueExtQADevTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "5ea01567ed744230a540d64a79e6dc95",
+         "Asset" : "FortniteRedDailyMainTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "1ec6265a583a411c8f95f08bc2b519a7",
+         "Asset" : "FortniteBlueDailyMainTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "1e8d3461db1c4772a5942e9f3814915d",
+         "Asset" : "daaf997fff304a0d983dedad11a9d143",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "34798b9f93f1420c90d0d5c30aa38db7",
+         "Asset" : "7a45f97af3264d73913f151ab33ab892",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "30cc9b2e71434e298b3e49f9e84dbb9f",
+         "Asset" : "a9b05a41ba8d4316a7c78a041278be84",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fe99d5e2ccc348558c54a6428e24bbea",
+         "Asset" : "FortniteDevPlaytestB",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "694757b01e834ccbb24aadabfb56f7da",
+         "Asset" : "ReleaseTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "83fa6058b7414103a32ca16a4046da75",
+         "Asset" : "DevTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fb2202cd231443b68846c18267c372f0",
+         "Asset" : "DevLatest",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "719d66fcfaa9467191d11d7ceab7f8c3",
+         "Asset" : "FortniteDevPlaytestG",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "3aba6419923f4a5087a8b352408ad9f7",
+         "Asset" : "FortniteBrawler",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "b12ade21a0e8404d94a63871d785664d",
+         "Asset" : "FortniteDevPlaytestM",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "3e366ef96a3a4c4799453c79424a154a",
+         "Asset" : "FortniteReleasePlaytest",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "ae4ad639854d422eba1dabb4c9630555",
+         "Asset" : "FortniteReleasePlaytestB",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7667b310886a481c84bcec996bca6826",
+         "Asset" : "FortniteDevPlaytestZ",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "a2c5c13064574fa29b455254016f17eb",
+         "Asset" : "FortniteDevPlaytestN",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "ee50ce4ca82e421381624ec60cf530f2",
+         "Asset" : "FortniteDevPlaytestJ",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "d7db7ef384a24ff9af3bb31b93e9d515",
+         "Asset" : "ea57c4918d5c4dca96b4627e88f200c6",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "5abee9d657eb466ab38b1a3a51a5f350",
+         "Asset" : "f30221293b0541139f56ac960ecc67f3",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "def5a3b4c4b14e4fa5169139e3ad7544",
+         "Asset" : "0c14efd84dad42b692582aabf1268344",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "d68f0b570f8f4313b933dcf1e3e6e789",
+         "Asset" : "9fdf26d49829443da0cbb23bf943e012",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "d99ea8ecf70c4f07868b5757176591b0",
+         "Asset" : "54cf8d7b7806495287d4491a65290f09",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7b5bd675da3a4c45881f9a3ec70148a1",
+         "Asset" : "196aebc27ccd4f2b9c8bff439c3baf25",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "0b8a8828889b422ca0784c824dc696d0",
+         "Asset" : "567f2a3bdac048ce92292c4019ef01ac",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "480ebc8605c94d319f7a453375b7209e",
+         "Asset" : "29b2e15b98e74c4cb1867aafcb3e6d8e",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "26ff7517e8104f7abab3c0de13629df5",
+         "Asset" : "fb0a4eff523c42f08a3c33397fb9d632",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "0788088250f94bc0842f233606853489",
+         "Asset" : "FortniteVKStable",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "46fd59996b24430b8ed0ed014ad12364",
+         "Asset" : "FortniteVKDaily",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "381f6adb3e6d42ba84e8c3b12593faf0",
+         "Asset" : "FortniteBatsickle",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fc47c60cb7a8497387f79e6c38300ff6",
+         "Asset" : "FortniteBuckler",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "4de693b911164a7295506ccd3feeac84",
+         "Asset" : "9aea93269ef84c97a58935761a452209",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "2125fcc998b0429d99214a587327bf6b",
+         "Asset" : "3e4328273d5941a8bb01ff2e9d265c44",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "12bfc63aba0b4193ab11f901595a8162",
+         "Asset" : "f0d8fea9f80247ffaa8bd67a02c79def",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "f58eb636faa545d4a3cd3dcdf7a86cec",
+         "Asset" : "FortniteDevPlaytestE",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "bf0804c241ba4609b861ec5d7f9c32ed",
+         "Asset" : "e819110db75f41c2b01be8a13002b6a0",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "31c87c67a8cc434e879759799d3e9bda",
+         "Asset" : "FortniteAstro",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7007307b594e49ec8af53168fd1a675e",
+         "Asset" : "8561cb5cfb704d8d82b2a5371c59bc4d",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "246442f8815c4db78344385391bf9c74",
+         "Asset" : "d68e268008204dbfa5a76f1ddc59473f",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "61d3785c3657490db1e9a21058226be6",
+         "Asset" : "ec18c2c0f18a4304b942233ac9073078",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "5f5f22cb3df2455b801f7fca1dfa709d",
+         "Asset" : "d4e5169fcd7b4cce9cd3191a1abf7d1c",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "bfc2b366cdc84f1b95f9b3cbc17967dc",
+         "Asset" : "ad28e552081446daa9756847a9ea64ec",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && ((RegexGroupInt64(1) > 33 || (RegexGroupInt64(1) == 33 && RegexGroupInt64(2) >= 10)) && RegexGroupInt64(3) >= 38333883) && (RegexGroupInt64(1) < 34 || (RegexGroupInt64(1) == 34 && RegexGroupInt64(2) < 10) || RegexGroupInt64(3) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "b4cf457d7b33451ebc312c272e7f167c",
+         "Asset" : "FortniteBurnout",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "6027635d656d4766b251c2a40d4e8535",
+         "Asset" : "FortniteFlapper",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fb52b344175f4a1eaefa606f3fb0323a",
+         "Asset" : "db6bb6e33eca4c09b4a784ac946ec36a",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "868c080a26f04e749098b46e177378d1",
+         "Asset" : "FortniteFloss",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7a0414c01bcd4d7faa9c8a5df212275b",
+         "Asset" : "c1f0558cb28840d6b9bba461ed3dda9f",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "124c9a1aabcd4bb7ad149d86797643a3",
+         "Asset" : "f8b23696b587415d89566e405fbde4f4",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "c01e4731ffed4cf2a6926dfbfc6dea50",
+         "Asset" : "FortniteBubbles",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "2c7f077ef11344c1869831be84e9326c",
+         "Asset" : "FortniteDevPlaytestW",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "f89c1a57e9114dcbbbb2285850facdef",
+         "Asset" : "FortniteDevPlaytestK",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "0d5c7602ed6f4a70953bb09a0e9912f9",
+         "Asset" : "FortniteBlueExtQADevTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "5ea01567ed744230a540d64a79e6dc95",
+         "Asset" : "FortniteRedDailyMainTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "1ec6265a583a411c8f95f08bc2b519a7",
+         "Asset" : "FortniteBlueDailyMainTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "1e8d3461db1c4772a5942e9f3814915d",
+         "Asset" : "daaf997fff304a0d983dedad11a9d143",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "34798b9f93f1420c90d0d5c30aa38db7",
+         "Asset" : "7a45f97af3264d73913f151ab33ab892",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "30cc9b2e71434e298b3e49f9e84dbb9f",
+         "Asset" : "a9b05a41ba8d4316a7c78a041278be84",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fe99d5e2ccc348558c54a6428e24bbea",
+         "Asset" : "FortniteDevPlaytestB",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "694757b01e834ccbb24aadabfb56f7da",
+         "Asset" : "ReleaseTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "83fa6058b7414103a32ca16a4046da75",
+         "Asset" : "DevTesting",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fb2202cd231443b68846c18267c372f0",
+         "Asset" : "DevLatest",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "719d66fcfaa9467191d11d7ceab7f8c3",
+         "Asset" : "FortniteDevPlaytestG",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "3aba6419923f4a5087a8b352408ad9f7",
+         "Asset" : "FortniteBrawler",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "b12ade21a0e8404d94a63871d785664d",
+         "Asset" : "FortniteDevPlaytestM",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "3e366ef96a3a4c4799453c79424a154a",
+         "Asset" : "FortniteReleasePlaytest",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "ae4ad639854d422eba1dabb4c9630555",
+         "Asset" : "FortniteReleasePlaytestB",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7667b310886a481c84bcec996bca6826",
+         "Asset" : "FortniteDevPlaytestZ",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "a2c5c13064574fa29b455254016f17eb",
+         "Asset" : "FortniteDevPlaytestN",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "ee50ce4ca82e421381624ec60cf530f2",
+         "Asset" : "FortniteDevPlaytestJ",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "d7db7ef384a24ff9af3bb31b93e9d515",
+         "Asset" : "ea57c4918d5c4dca96b4627e88f200c6",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "5abee9d657eb466ab38b1a3a51a5f350",
+         "Asset" : "f30221293b0541139f56ac960ecc67f3",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "def5a3b4c4b14e4fa5169139e3ad7544",
+         "Asset" : "0c14efd84dad42b692582aabf1268344",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "d68f0b570f8f4313b933dcf1e3e6e789",
+         "Asset" : "9fdf26d49829443da0cbb23bf943e012",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "d99ea8ecf70c4f07868b5757176591b0",
+         "Asset" : "54cf8d7b7806495287d4491a65290f09",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7b5bd675da3a4c45881f9a3ec70148a1",
+         "Asset" : "196aebc27ccd4f2b9c8bff439c3baf25",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "0b8a8828889b422ca0784c824dc696d0",
+         "Asset" : "567f2a3bdac048ce92292c4019ef01ac",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "480ebc8605c94d319f7a453375b7209e",
+         "Asset" : "29b2e15b98e74c4cb1867aafcb3e6d8e",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "26ff7517e8104f7abab3c0de13629df5",
+         "Asset" : "fb0a4eff523c42f08a3c33397fb9d632",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "0788088250f94bc0842f233606853489",
+         "Asset" : "FortniteVKStable",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "46fd59996b24430b8ed0ed014ad12364",
+         "Asset" : "FortniteVKDaily",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "381f6adb3e6d42ba84e8c3b12593faf0",
+         "Asset" : "FortniteBatsickle",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "fc47c60cb7a8497387f79e6c38300ff6",
+         "Asset" : "FortniteBuckler",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "4de693b911164a7295506ccd3feeac84",
+         "Asset" : "9aea93269ef84c97a58935761a452209",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "2125fcc998b0429d99214a587327bf6b",
+         "Asset" : "3e4328273d5941a8bb01ff2e9d265c44",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "12bfc63aba0b4193ab11f901595a8162",
+         "Asset" : "f0d8fea9f80247ffaa8bd67a02c79def",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "f58eb636faa545d4a3cd3dcdf7a86cec",
+         "Asset" : "FortniteDevPlaytestE",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "bf0804c241ba4609b861ec5d7f9c32ed",
+         "Asset" : "e819110db75f41c2b01be8a13002b6a0",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "31c87c67a8cc434e879759799d3e9bda",
+         "Asset" : "FortniteAstro",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7007307b594e49ec8af53168fd1a675e",
+         "Asset" : "8561cb5cfb704d8d82b2a5371c59bc4d",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "246442f8815c4db78344385391bf9c74",
+         "Asset" : "d68e268008204dbfa5a76f1ddc59473f",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "61d3785c3657490db1e9a21058226be6",
+         "Asset" : "ec18c2c0f18a4304b942233ac9073078",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "5f5f22cb3df2455b801f7fca1dfa709d",
+         "Asset" : "d4e5169fcd7b4cce9cd3191a1abf7d1c",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "bfc2b366cdc84f1b95f9b3cbc17967dc",
+         "Asset" : "ad28e552081446daa9756847a9ea64ec",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38333883) && (RegexGroupInt64(1) < 39555844)"
+      }
+   ],
+   "Data" : [
+      {
+         "Title" : "Fortnite Core and Battle Royale",
+         "Title_translate" : "true",
+         "Description" : "Common files required to play Fortnite plus the entirety of Battle Royale.",
+         "Description_translate" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
+         "Tags" : [
+            "",
+            "core",
+            "br"
+         ],
+         "Title_fr" : "Fortnite de base et Battle Royale",
+         "Description_fr" : "Fichiers nécessaires pour jouer à Fortnite et à l'intégralité de Battle Royale.",
+         "Title_de" : "Fortnite Hauptspiel und Battle Royale",
+         "Description_de" : "Benötigte gemeinsame Dateien, um Fortnite und das gesamte Battle Royale spielen zu können.",
+         "Title_ru" : "Основные файлы Fortnite и «Королевская битва»",
+         "Description_ru" : "Обязательные файлы для запуска Fortnite и игры в режиме «Королевская битва».",
+         "Title_ko" : "포트나이트 코어 및 배틀로얄",
+         "Description_ko" : "포트나이트와 배틀로얄을 플레이하는 데 필요한 공통 파일",
+         "Title_tr" : "Fortnite Ana Dosyalar ve Battle Royale",
+         "Description_tr" : "Fortnite’ı oynamak için gereken ortak dosyalar ve Battle Royale’in tamamı.",
+         "Title_it" : "Nucleo Fortnite e Battaglia reale",
+         "Description_it" : "Per giocare a Fortnite sono necessari i file comuni, più tutta Battaglia reale.",
+         "Title_es" : "Fortnite principal y Battle Royale",
+         "Description_es" : "los archivos comunes necesarios para jugar a Fortnite, además de Battle Royale al completo.",
+         "Title_es-MX" : "Fortnite principal y Batalla campal",
+         "Description_es-MX" : "Archivos comunes necesarios para jugar Fortnite, además de Batalla campal completo.",
+         "Title_pl" : "Kluczowe pliki Fortnite i Fortnite: Battle Royale",
+         "Description_pl" : "Pliki niezbędne do gry w Fortnite, a także całość danych Battle Royale.",
+         "Title_ar" : "الذاكرة الأساسية لـFortnite وBattle Royale المعارك الملكية",
+         "Description_ar" : "الملفات الشائعة مطلوبة للعب Fortnite بالإضافة إلى Battle Royale المعارك الملكية كاملة.",
+         "Title_ja" : "フォートナイト コア&バトルロイヤル",
+         "Description_ja" : "『フォートナイト』と「バトルロイヤル」の全てをプレイするには、共有ファイルが必要です。",
+         "Title_zh-CN" : "《堡垒之夜》空降行动 (Battle Royale)",
+         "Description_zh-CN" : "游玩《堡垒之夜》空降行动 (Battle Royale) 所需公共文件。",
+         "Title_pt-BR" : "Fortnite Básico e Battle Royale",
+         "Description_pt-BR" : "Arquivos comuns necessários para jogar o Fortnite, além do Battle Royale completo.",
+         "Title_zh-Hant" : "《Fortnite》核心與大逃殺",
+         "Description_zh-Hant" : "需要一般檔案來遊玩《Fortnite》及進入大逃殺。",
+         "Title_th" : "Fortnite Core และ Battle Royale",
+         "Description_th" : "ต้องมีไฟล์ที่มีร่วมกันเพื่อเล่น Fortnite บวกกับทั้งหมดของ Battle Royale",
+         "Title_zh-Hans" : "《Fortnite》大逃杀 (Battle Royale)",
+         "Description_zh-Hans" : "游玩《Fortnite》大逃杀 (Battle Royale) 所需公共文件。",
+         "Title_nl" : "Fortnite Core en Battle Royale",
+         "Description_nl" : "Vereiste gemeenschappelijke bestanden om Fortnite en alles van Battle Royale te spelen.",
+         "Title_sv" : "Fortnite Core och Battle Royale",
+         "Description_sv" : "Vanliga filer som krävs för att spela Fortnite, plus hela Battle Royale.",
+         "Title_cs" : "Fortnite Core a Battle Royale",
+         "Description_cs" : "Společné soubory potřebné ke hraní Fortnite a celého Battle Royale.",
+         "Title_da" : "Fortnite Core og Battle Royale",
+         "Description_da" : "Typiske filer, der kræves for at spille Fortnite plus hele Battle Royale.",
+         "Title_no" : "Fortnite Core og Battle Royale",
+         "Description_no" : "Fellesfiler kreves for å spille Fortnite og hele Battle Royale.",
+         "Title_fi" : "Fortnite Core ja Battle Royale",
+         "Description_fi" : "Yhteiset tiedostot, jotka vaaditaan Fortniten sekä kaikkeen Battle Royalen pelaamiseen.",
+         "Title_pt" : "Fortnite Core e Battle Royale",
+         "Description_pt" : "Ficheiros comuns necessários para jogar Fortnite e a totalidade do Battle Royale.",
+         "Title_hu" : "Fortnite Core és Battle Royale",
+         "Description_hu" : "A Fortnite játékhoz szükséges közös fájlok, valamint a Battle Royale teljes egésze.",
+         "Title_ro" : "Fortnite Core și Battle Royale",
+         "Description_ro" : "Fișiere comune necesare pentru a juca Fortnite plus întregul Battle Royale.",
+         "Title_id" : "Fortnite Core dan Battle Royale",
+         "Description_id" : "File umum yang dibutuhkan untuk memainkan Fortnite dan keseluruhan Battle Royale.",
+         "Title_vi" : "Fortnite Core và Battle Royale",
+         "Description_vi" : "Phải có các tập tin chung để chơi Fortnite và toàn bộ Battle Royale.",
+         "Title_el" : "Fortnite Core και Battle Royale",
+         "Description_el" : "Κοινά αρχεία που απαιτούνται για να παίξετε το Fortnite και ολόκληρο το Battle Royale.",
+         "Title_bg" : "Fortnite Core и Battle Royale",
+         "Description_bg" : "Общи файлове, необходими за игра на Fortnite плюс цялата Battle Royale.",
+         "Title_uk" : "Основа й королівська битва Fortnite",
+         "Description_uk" : "Загальні файли, необхідні для гри у Fortnite і режим королівської битви загалом.",
+         "Title_hi" : "Fortnite Core और बैटल रॉयल",
+         "Description_hi" : "Fortnite और बैटल रॉयल को पूरी तरह से खेलने के लिए आवश्यक सामान्य फ़ाइल्स।",
+         "Title_ms" : "Fortnite Core dan Battle Royale",
+         "Description_ms" : "Fail biasa yang diperlukan untuk bermain Fortnite serta keseluruhan Battle Royale.",
+         "Title_fil" : "Fortnite Core at Battle Royale",
+         "Description_fil" : "Kailangan ang mga karaniwang file para makapaglaro Fortnite at ang kabuuan ng Battle Royale."
+      },
+      {
+         "Title" : "Fortnite Save the World",
+         "Title_translate" : "true",
+         "Description" : "Files required to play Fortnite Save the World, if owned.",
+         "Description_translate" : "true",
+         "UniqueId" : "6B7D8A45845F42F091CB05987CB2FC01",
+         "IsRequired" : "false",
+         "DefaultSelectedExpression" : "HasAccess(4217759881dd43209da2e89a9552a9a6)",
+         "IsDefaultSelected" : "true",
+         "UpgradePathLogic" : "3711A6568F844576B26E8CBB79EABC70",
+         "Tags" : [
+            "stw"
+         ],
+         "Title_fr" : "Fortnite Sauver le monde",
+         "Description_fr" : "Fichiers nécessaires pour jouer à Fortnite Sauver le monde, si vous le possédez.",
+         "Title_de" : "Fortnite Rette die Welt",
+         "Description_de" : "Benötigte Dateien, um Fortnite Rette die Welt spielen zu können (falls es im Besitz ist).",
+         "Title_ru" : "Fortnite: Сражение с Бурей",
+         "Description_ru" : "Обязательные файлы для запуска кампании «Сражение с Бурей», если она приобретена.",
+         "Title_ko" : "포트나이트 세이브 더 월드",
+         "Description_ko" : "포트나이트 세이브 더 월드를 보유한 경우 이를 플레이하는 데 필요한 파일",
+         "Title_tr" : "Fortnite Dünyayı Kurtar!",
+         "Description_tr" : "Satın alındıysa Fortnite Dünyayı Kurtar! modunu oynamak için gereken dosyalar.",
+         "Title_it" : "Fortnite Salva il mondo",
+         "Description_it" : "File richiesti per giocare a Salva il mondo, se si possiede.",
+         "Title_es" : "Salvar el mundo de Fortnite",
+         "Description_es" : "los archivos necesarios para jugar a Salvar el mundo de Fortnite, si está disponible.",
+         "Title_es-MX" : "Salva el mundo de Fortnite",
+         "Description_es-MX" : "Archivos necesarios para jugar Salva el mundo de Fortnite, si lo tienes.",
+         "Title_pl" : "Kampania Ratowanie Świata",
+         "Description_pl" : "Pliki niezbędne do gry w kampanię Ratowanie Świata, jeżeli gracz ją posiada.",
+         "Title_ar" : "Fortnite Save the World أنقذ العالم",
+         "Description_ar" : "ملفات مطلوبة للعب Fortnite Save the World أنقذ العالم، إن كانت بحوزتك.",
+         "Title_ja" : "フォートナイト 世界を救え",
+         "Description_ja" : "「フォートナイト 世界を救え」をプレイするには共通ファイルが必要です。",
+         "Title_zh-CN" : "《堡垒之夜》守护家园 (Save the World)",
+         "Description_zh-CN" : "如拥有《堡垒之夜》守护家园 (Save the World) 模式，游玩需要文件。",
+         "Title_pt-BR" : "Salve o Mundo do Fortnite",
+         "Description_pt-BR" : "Arquivos necessários para jogar o Salve o Mundo do Fortnite, se adquirido.",
+         "Title_zh-Hant" : "《Fortnite Save the World》",
+         "Description_zh-Hant" : "如果擁有的話，需要檔案才能《Fortnite Save the World》。",
+         "Title_th" : "Fortnite Save the World",
+         "Description_th" : "ต้องมีไฟล์เพื่อเล่น Fortnite Save the World ถ้ามีแล้ว",
+         "Title_zh-Hans" : "《Fortnite》守护家园 (Save the World)",
+         "Description_zh-Hans" : "如拥有《Fortnite》守护家园 (Save the World) 模式，游玩需要文件。",
+         "Title_nl" : "Fortnite Save the World",
+         "Description_nl" : "Vereiste bestanden om Fortnite Save the World te spelen, indien in bezit.",
+         "Title_sv" : "Fortnite Save the World",
+         "Description_sv" : "Filer som krävs för att spela Fortnite Save the World (om du äger detta).",
+         "Title_cs" : "Fortnite Save the World",
+         "Description_cs" : "Soubory potřebné ke hraní hry Fortnite Save the World, pokud ji vlastníte.",
+         "Title_da" : "Fortnite Save the World",
+         "Description_da" : "Filer, der kræves for at spille Fortnite Save the World, hvis du ejer det.",
+         "Title_no" : "Fortnite Save the World",
+         "Description_no" : "Fellesfiler kreves for å spille Fortnite Save the World, om de eies.",
+         "Title_fi" : "Fortnite Save the World",
+         "Description_fi" : "Tiedostot, jotka vaaditaan Fortnite Save the World -pelin pelaamiseen, jos ne omistetaan.",
+         "Title_pt" : "Fortnite Save the World",
+         "Description_pt" : "Ficheiros necessários para jogar Fortnite Save the World, se o possuir.",
+         "Title_hu" : "Fortnite Save the World",
+         "Description_hu" : "A Fortnite Save the World játékhoz szükséges fájlok, ha megvannak.",
+         "Title_ro" : "Fortnite Save the World",
+         "Description_ro" : "Fișiere necesare pentru a juca Fortnite Save the World, dacă este deținut.",
+         "Title_id" : "Fortnite Save the World",
+         "Description_id" : "File yang dibutuhkan untuk memainkan Fortnite Save the World, jika dimiliki.",
+         "Title_vi" : "Fortnite Giải cứu thế giới",
+         "Description_vi" : "Phải có các tập tin chung để chơi Fortnite Giải cứu thế giới, nếu bạn đã sở hữu trò chơi này.",
+         "Title_el" : "Fortnite Save the World",
+         "Description_el" : "Αρχεία που απαιτούνται για να παίξετε Fortnite Save the World, εάν βρίσκεται στην κατοχή σας.",
+         "Title_bg" : "Fortnite Save the World",
+         "Description_bg" : "Файлове, необходими за игра на Fortnite Save the World, ако са притежавани.",
+         "Title_uk" : "Fortnite: Save the World",
+         "Description_uk" : "Загальні файли, необхідні для гри в Fortnite: Save the World, якщо ви маєте цю гру.",
+         "Title_hi" : "Fortnite दुनिया बचाएँ",
+         "Description_hi" : "Fortnite दुनिया बचाएँ खेलने के लिए आवश्यक सामान्य फ़ाइल्स, अगर आपके पास हों।",
+         "Title_ms" : "Fortnite Save the World",
+         "Description_ms" : "Fail biasa yang diperlukan untuk bermain Fortnite Save the World, jika dimiliki.",
+         "Title_fil" : "Fortnite Save the World",
+         "Description_fil" : "Kailangan ang mga file para makapaglaro ng Fortnite Save the World, kung pagmamay-ari."
+      },
+      {
+         "Title" : "High Resolution Textures",
+         "Title_translate" : "true",
+         "Description" : "Files required to play Fortnite more beautifully.",
+         "Description_translate" : "true",
+         "UniqueId" : "BC27D46CFC5347479B3F118F9A31EA06",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "DefaultSelectedExpression" : "RandomAccessMemoryGB() >= 8",
+         "Tags" : [
+            "core_highres",
+            "br_highres"
+         ],
+         "Title_fr" : "Textures haute résolution",
+         "Description_fr" : "Fichiers requis pour jouer à Fortnite dans toute sa splendeur.",
+         "Title_it" : "Texture ad alta risoluzione",
+         "Description_it" : "File necessari per giocare a una versione abbellita di Fortnite.",
+         "Title_de" : "Hochaufgelöste Texturen",
+         "Description_de" : "Dateien, die benötigt werden, um Fortnite mit schönerer Grafik zu spielen.",
+         "Title_es" : "Texturas en alta resolución",
+         "Description_es" : "Archivos necesarios para embellecer Fortnite.",
+         "Title_es-MX" : "Texturas de alta resolución",
+         "Description_es-MX" : "Archivos necesarios para embellecer Fortnite.",
+         "Title_ru" : "Текстуры высокого разрешения",
+         "Description_ru" : "С этими файлами, ваш Fortnite станет ещё красивее.",
+         "Title_pl" : "Tekstury wysokiej rozdzielczości",
+         "Description_pl" : "Pliki wymagane do piękniejszej gry w Fortnite.",
+         "Title_ar" : "مواد عالية الدقة",
+         "Description_ar" : "الملفات المطلوبة للعب Fortnite بشكل أكثر جمالاً.",
+         "Title_ko" : "고해상도 텍스처",
+         "Description_ko" : "포트나이트를 더 아름답게 플레이하는 데 필요한 파일입니다.",
+         "Title_ja" : "高解像度テクスチャ",
+         "Description_ja" : "『フォートナイト』をより美しくプレイするにはファイルが必要です。",
+         "Title_zh-Hans" : "高分辨率贴图",
+         "Description_zh-Hans" : "提高《Fortnite》游戏图形质量所需的文件。",
+         "Title_zh-Hant" : "高解析度材質",
+         "Description_zh-Hant" : "讓 Fortnite 畫面更漂亮的必要檔案。",
+         "Title_pt-BR" : "Texturas de alta resolução",
+         "Description_pt-BR" : "Arquivos necessários para jogar Fortnite com mais beleza.",
+         "Title_tr" : "Yüksek Çözünürlüklü Dokular",
+         "Description_tr" : "Fortnite'ı daha güzel oynamak için gereken dosyalar.",
+         "Title_th" : "พื้นผิวความละเอียดสูง",
+         "Description_th" : "ต้องมีไฟล์เพื่อให้เล่น Fortnite ได้งดงามยิ่งขึ้น",
+         "Title_nl" : "Texturen in hoge resolutie",
+         "Description_nl" : "Vereiste bestanden om Fortnite nog mooier te spelen.",
+         "Title_sv" : "Texturer vid hög upplösning",
+         "Description_sv" : "Filer som krävs för att spela Fortnite smidigare.",
+         "Title_cs" : "Textury ve vysokém rozlišení",
+         "Description_cs" : "Soubory potřebné ke hraní Fortnite v lepší kvalitě.",
+         "Title_da" : "Teksturer i høj opløsning",
+         "Description_da" : "Filer, der kræves for at spille et smukkere Fortnite.",
+         "Title_no" : "Teksturer med høy oppløsning",
+         "Description_no" : "Filer kreves for å spille Fortnite vakrere.",
+         "Title_fi" : "Korkean resoluution rakenteet",
+         "Description_fi" : "Tiedostot, jotka vaaditaan Fortniten laadukkaampaan pelaamiseen.",
+         "Title_pt" : "Texturas de alta resolução",
+         "Description_pt" : "Ficheiros necessários para jogar Fortnite de forma mais bela.",
+         "Title_hu" : "Nagy felbontású textúrák",
+         "Description_hu" : "A Fortnite szebb megjelenítéséhez szükséges fájlok.",
+         "Title_ro" : "Texturi pentru rezoluție înaltă",
+         "Description_ro" : "Fișiere necesare pentru a juca Fortnite mai frumos.",
+         "Title_id" : "Tekstur Resolusi Tinggi",
+         "Description_id" : "File yang dibutuhkan untuk memainkan Fortnite dengan lebih baik.",
+         "Title_vi" : "Kết cấu Độ phân giải Cao",
+         "Description_vi" : "Phải có các tập tin để chơi Fortnite đẹp hơn.",
+         "Title_el" : "Υφές υψηλής ανάλυσης",
+         "Description_el" : "Αρχεία που απαιτούνται για να παίξετε Fortnite πιο όμορφα.",
+         "Title_bg" : "Текстури с висока разделителна способност",
+         "Description_bg" : "Файлове, необходими за по-красива игра на Fortnite.",
+         "Title_uk" : "Текстури високої роздільності",
+         "Description_uk" : "Файли, необхідні для поліпшення графіки Fortnite.",
+         "Title_hi" : "उच्च रिज़ॉल्यूशन बनावट",
+         "Description_hi" : "Fortnite को अधिक सुंदरता से खेलने के लिए आवश्यक फ़ाइल्स।",
+         "Title_ms" : "Tekstur Resolusi Tinggi",
+         "Description_ms" : "Fail yang diperlukan untuk bermain Fortnite dengan lebih cantik.",
+         "Title_fil" : "Mga Texture na Mataas na Resolusyon",
+         "Description_fil" : "Kailangan ang mga file para mas maganda ang paglalaro ng Fortnite."
+      },
+      {
+         "UniqueId" : "D55253D7363B419996C2B4E7023F8E12",
+         "IsRequired" : "false",
+         "Invisible" : "true",
+         "InvisibleSizeCountTowards" : "BC27D46CFC5347479B3F118F9A31EA06",
+         "InvisibleSizeCountCondition" : "IsComponentSelected(6B7D8A45845F42F091CB05987CB2FC01)",
+         "InvisibleSelectedExpression" : "IsComponentSelected(6B7D8A45845F42F091CB05987CB2FC01) && IsComponentSelected(BC27D46CFC5347479B3F118F9A31EA06)",
+         "Tags" : [
+            "stw_highres"
+         ]
+      },
+      {
+         "Title" : "Pre-download Streamed Assets",
+         "Title_translate" : "true",
+         "Description" : "Installs all assets that would normally be streamed during gameplay.",
+         "Description_translate" : "true",
+         "UniqueId" : "20ED517A62854D21AD34DF56DDF9D97F",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "false",
+         "Tags" : [
+            "br_ondemand"
+         ],
+         "Title_fr" : "Pré-télécharger les visuels diffusés",
+         "Description_fr" : "Installez tous les visuels qui seraient normalement diffusés pendant la partie.",
+         "Title_it" : "Pre-scarica le risorse trasmesse",
+         "Description_it" : "Installa tutte le risorse che normalmente vengono trasmesse durante il gameplay.",
+         "Title_de" : "Gestreamte Elemente vorab herunterladen",
+         "Description_de" : "Installiert alle Elemente, die normalerweise während des Gameplays gestreamt würden.",
+         "Title_es" : "Predescargar recursos transmitidos",
+         "Description_es" : "Instala todos los recursos que normalmente se transmitirían durante la partida.",
+         "Title_es-MX" : "Predescargar recursos transmitidos",
+         "Description_es-MX" : "Instala todos los recursos que normalmente se transmitirían durante la partida.",
+         "Title_ru" : "Предзагрузка транслируемых элементов",
+         "Description_ru" : "Устанавливает все элементы, которые обычно транслируются во время игры.",
+         "Title_pl" : "Wstępne pobranie transmitowanych elementów",
+         "Description_pl" : "Powoduje zainstalowanie wszystkich elementów, które zazwyczaj są transmitowane podczas rozgrywki.",
+         "Title_ar" : "تنزيل أصول البث مسبقًا",
+         "Description_ar" : "يقوم بتثبيت جميع الأصول التي يتم بثها عادةً أثناء اللعب.",
+         "Title_ko" : "스트리밍된 애셋 사전 다운로드",
+         "Description_ko" : "일반적으로 게임플레이 중에 스트리밍되는 모든 애셋을 설치합니다.",
+         "Title_ja" : "配信アセットをプレダウンロードする",
+         "Description_ja" : "ゲームプレイ中に通常配信される、すべてのアセットをインストールする。",
+         "Title_zh-Hans" : "预下载直播资源",
+         "Description_zh-Hans" : "安装一般在游戏过程中直播的所有资源。",
+         "Title_zh-Hant" : "預先下載即時讀取素材",
+         "Description_zh-Hant" : "安裝所有在遊玩時通常會被即時讀取的素材。",
+         "Title_pt-BR" : "Fazer pré-download dos ativos transmitidos",
+         "Description_pt-BR" : "Instala todos os ativos que geralmente seriam transmitidos durante o jogo.",
+         "Title_tr" : "Veri Akışı Öğelerini Önceden İndir",
+         "Description_tr" : "Normalde oynanış esnasında geçici olarak indirilen tüm öğe verilerini tek seferde indirir.",
+         "Title_th" : "ดาวน์โหลดแอสเซทสตรีมล่วงหน้า",
+         "Description_th" : "ติดตั้งแอสเซทสตรีมทั้งหมดที่โดยปกติแล้วจะสตรีมระหว่างการเล่นเกม",
+         "Title_nl" : "Streamingassets vooraf downloaden",
+         "Description_nl" : "Installeert alle assets die normaal tijdens het spelen worden gestreamd.",
+         "Title_sv" : "Tidigare nedladdade streamingtillgångar",
+         "Description_sv" : "Installera alla tillgångar för som normalt streamas när du spelar.",
+         "Title_cs" : "Předběžné stažení streamovaných prvků",
+         "Description_cs" : "Nainstaluje všechny prvky, které by se normálně streamovaly během hraní.",
+         "Title_da" : "Download streamede aktiver på forhånd",
+         "Description_da" : "Installerer alle aktiver, der normalt ville blive streamet under spillet.",
+         "Title_no" : "Forhåndsnedlastede strømmede ressurser",
+         "Description_no" : "Installerer alle ressurser som normal vil bli strømmet under spillet.",
+         "Title_fi" : "Lataa striimatut resurssit ennakkoon",
+         "Description_fi" : "Asentaa kaikki resurssit, jotka tavallisesti striimattaisiin pelaamisen aikana.",
+         "Title_pt" : "Pré-transferir recursos em streaming",
+         "Description_pt" : "Instala todos os recursos que normalmente seriam transferidos durante o jogo.",
+         "Title_hu" : "Előre letöltött streamelt eszközök",
+         "Description_hu" : "Telepíti az összes olyan eszközt, amelyeket normál esetben a rendszer a játék során streamelne.",
+         "Title_ro" : "Elemente redate în flux descărcate anticipat",
+         "Description_ro" : "Instalează toate elementele ce ar fi în mod obișnuit redate în flux în timpul jocului.",
+         "Title_id" : "Pra-unduh Aset Streaming",
+         "Description_id" : "Menginstal semua aset yang biasanya disiarkan selama game.",
+         "Title_vi" : "Tải về sẵn Tài sản Phát trực tiếp",
+         "Description_vi" : "Cài đặt tất cả tài sản thường được phát trực tiếp trong khi chơi trò chơi.",
+         "Title_el" : "Πρόωρη λήψη στοιχείων ζωντανής μετάδοσης",
+         "Description_el" : "Εγκαθιστά όλα τα στοιχεία που κανονικά θα μεταδίδονταν ζωντανά κατά τη διάρκεια του παιχνιδιού.",
+         "Title_bg" : "Предварително изтегляне на стриймвани активи",
+         "Description_bg" : "Инсталира всички активи, които обикновено биха се стриймвали по време на игра.",
+         "Title_uk" : "Попереднє завантаження потокових ресурсів",
+         "Description_uk" : "Установлює всі активи, які зазвичай транслюються під час гри.",
+         "Title_hi" : "स्ट्रीम की गई एसेट्स को पहेले से डाउनलोड करें",
+         "Description_hi" : "सभी एसेट्स को इंस्टॉल करता है जिन्हें सामान्य रूप से गेमप्ले के दौरान स्ट्रीम किया जाता है।",
+         "Title_ms" : "Pramuat turun Aset Distrim",
+         "Description_ms" : "Memasang semua aset penstriman yang biasanya distrim semasa bermain permainan.",
+         "Title_fil" : "Paunang I-download ang Streamed Assets",
+         "Description_fil" : "Ini-install ang lahat ng asset na karaniwang na-stream sa panahon ng gameplay."
+      },
+      {
+         "UniqueId" : "92C401BECAAC4E52A43E2F78B00E14CD",
+         "IsRequired" : "false",
+         "Invisible" : "true",
+         "InvisibleSizeCountTowards" : "20ED517A62854D21AD34DF56DDF9D97F",
+         "InvisibleSizeCountCondition" : "IsComponentSelected(BC27D46CFC5347479B3F118F9A31EA06)",
+         "InvisibleSelectedExpression" : "IsComponentSelected(BC27D46CFC5347479B3F118F9A31EA06) && IsComponentSelected(20ED517A62854D21AD34DF56DDF9D97F)",
+         "Tags" : [
+            "br_ondemandoptional"
+         ]
+      },
+      {
+         "Title" : "Additional Languages",
+         "Title_translate" : "true",
+         "Description" : "Includes the additional voice over languages available.",
+         "Description_translate" : "true",
+         "IsDefaultExpanded" : "true",
+         "IsRequired" : "false",
+         "UniqueId" : "27F6E03BE9E94562A35E0D530C3DDC31",
+         "ConfigHandler" : "DefaultLanguage",
+         "Children" : [
+            {
+               "Title" : "Deutsch",
+               "UniqueId" : "5411AFEE311C476CA269834905E189A1",
+               "ConfigValue" : "de",
+               "Tags" : [
+                  "loc_de",
+                  "loc_de_highres"
+               ]
+            },
+            {
+               "Title" : "français",
+               "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
+               "ConfigValue" : "fr",
+               "Tags" : [
+                  "loc_fr",
+                  "loc_fr_highres"
+               ]
+            },
+            {
+               "Title" : "polski",
+               "UniqueId" : "48A0715044D24FB89124042314472F82",
+               "ConfigValue" : "pl",
+               "Tags" : [
+                  "loc_pl",
+                  "loc_pl_highres"
+               ]
+            },
+            {
+               "Title" : "русский",
+               "UniqueId" : "016C279E75184A3999E6C6A89B21D249",
+               "ConfigValue" : "ru",
+               "Tags" : [
+                  "loc_ru",
+                  "loc_ru_highres"
+               ]
+            }
+         ],
+         "Title_fr" : "Langues supplémentaires",
+         "Description_fr" : "Inclut les langues supplémentaires disponibles pour les dialogues.",
+         "Title_de" : "Zusätzliche Sprachen",
+         "Description_de" : "Enthält zusätzliche Sprachausgabe für weitere Sprachen.",
+         "Title_ru" : "Дополнительные языки",
+         "Description_ru" : "Включает в себя дополнительные варианты озвучения на других языках.",
+         "Title_ko" : "언어 추가",
+         "Description_ko" : "사용 가능한 추가 보이스오버 언어가 포함되어 있습니다.",
+         "Title_tr" : "Ek Diller",
+         "Description_tr" : "Var olan ek seslendirme dillerini içerir.",
+         "Title_it" : "Lingue aggiuntive",
+         "Description_it" : "Include le lingue aggiuntive di doppiaggio disponibili.",
+         "Title_es" : "Idiomas adicionales",
+         "Description_es" : "Incluye los idiomas de doblaje adicionales disponibles.",
+         "Title_es-MX" : "Idiomas adicionales",
+         "Description_es-MX" : "Incluye los archivos de voz adicionales para los idiomas disponibles.",
+         "Title_pl" : "Dodatkowe języki",
+         "Description_pl" : "Zawiera dostępne wersje językowe z dubbingiem.",
+         "Title_ar" : "لغات إضافية",
+         "Description_ar" : "تتضمن لغات الأداء الصوتي الإضافية.",
+         "Title_ja" : "言語の追加",
+         "Description_ja" : "指定言語に追加できるボイスを含む。",
+         "Title_zh-CN" : "额外的语言",
+         "Description_zh-CN" : "包含额外语言语音可用。",
+         "Title_pt-BR" : "Idiomas adicionais",
+         "Description_pt-BR" : "Inclui os idiomas de dublagem adicionais disponíveis.",
+         "Title_zh-Hant" : "額外語言",
+         "Description_zh-Hant" : "包含額外的語言配音。",
+         "Title_th" : "ภาษาเพิ่มเติม",
+         "Description_th" : "รวมเสียงเพิ่มเติมในภาษาต่างๆ ซึ่งพร้อมใช้งาน",
+         "Title_zh-Hans" : "额外的语言",
+         "Description_zh-Hans" : "包含额外语言语音可用。",
+         "Title_nl" : "Aanvullende talen",
+         "Description_nl" : "Bevat de aanvullende beschikbare voice-overtalen.",
+         "Title_sv" : "Ytterligare språk",
+         "Description_sv" : "Inkluderar berättarröst för ytterligare tillgängliga språk.",
+         "Title_cs" : "Další jazyky",
+         "Description_cs" : "Obsahuje další dostupné jazyky dabingu.",
+         "Title_da" : "Yderligere sprog",
+         "Description_da" : "Inkluderer de ekstra tilgængelige kommentatorsprog.",
+         "Title_no" : "Ekstra språk",
+         "Description_no" : "Omfatter ytterligere tilgjengelige dubbespråk.",
+         "Title_fi" : "Muut kielet",
+         "Description_fi" : "Sisältää muut saatavilla olevat taustaselostuskielet.",
+         "Title_pt" : "Línguas adicionais",
+         "Description_pt" : "Inclui as línguas de voz adicionais disponíveis.",
+         "Title_hu" : "További nyelvek",
+         "Description_hu" : "Tartalmazza a rendelkezésre álló további nyelveket a hangalámondáshoz.",
+         "Title_ro" : "Limbi suplimentare",
+         "Description_ro" : "Include limbile suplimentare pentru dublaj disponibile.",
+         "Title_id" : "Bahasa Tambahan",
+         "Description_id" : "Termasuk suara tambahan untuk bahasa yang tersedia.",
+         "Title_vi" : "Ngôn ngữ Khác",
+         "Description_vi" : "Bao gồm các ngôn ngữ lồng tiếng khác có sẵn.",
+         "Title_el" : "Πρόσθετες γλώσσες",
+         "Description_el" : "Περιέχει τις πρόσθετες διαθέσιμες γλώσσες ομιλίας.",
+         "Title_bg" : "Допълнителни езици",
+         "Description_bg" : "Включва наличните допълнителни гласови езици.",
+         "Title_uk" : "Додаткові мови",
+         "Description_uk" : "Містить додаткові мови озвучення.",
+         "Title_hi" : "अतिरिक्त भाषाएँ",
+         "Description_hi" : "इसमें अतिरिक्त उपलब्ध वॉयस ओवर भाषाएँ भी शामिल हैं।",
+         "Title_ms" : "Bahasa Tambahan",
+         "Description_ms" : "Termasuk suara tambahan bagi bahasa yang tersedia.",
+         "Title_fil" : "Karagdagang Wika",
+         "Description_fil" : "May available na karagdagang voice over na mga wika."
+      }
+   ]
+}

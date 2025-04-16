@@ -1,0 +1,217 @@
+﻿{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "ca0530b485754032be50cb6f27be0c2c",
+         "Item" : "9856699bf4cd47b5941bd1271a904c77",
+         "Asset" : "dfa8e9ab9b7a42a4b316a8446e60fd63",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "ca0530b485754032be50cb6f27be0c2c",
+         "Item" : "84686da593b24598803ffbe7f9b1bb5e",
+         "Asset" : "a1e2ce30defe4a9187ebc14fc9d2bd8b",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "ca0530b485754032be50cb6f27be0c2c",
+         "Item" : "5b12420d488f4a938fc755efd9fd1e5e",
+         "Asset" : "3cbcdb40d8dc4913a6906be244442a34",
+         "Version" : "*"
+      }
+   ],
+   "Data" : [
+      {
+         "Title" : "Kerbal Space Program",
+         "Description" : "Common files required to play Kerbal Space Program.",
+         "Description_translate" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
+         "Tags" : [
+            ""
+         ],
+         "Description_fr" : "Fichiers requis pour jouer à Kerbal Space Program.",
+         "Description_it" : "File comuni richiesti per giocare a Kerbal Space Program.",
+         "Description_de" : "Allgemeine Dateien, die zum Spielen von Kerbal Space Program benötigt werden.",
+         "Description_es" : "Archivos comunes necesarios para jugar a Kerbal Space Program.",
+         "Description_es-MX" : "Archivos comunes necesarios para jugar Kerbal Space Program.",
+         "Description_ru" : "Общие файлы, необходимые для игры в Kerbal Space Program.",
+         "Description_pl" : "Pliki współdzielone są wymagane do uruchomienia Kerbal Space Program.",
+         "Description_ar" : "الملفات المشتركة المطلوبة للعب Kerbal Space Program.",
+         "Description_ko" : "커벌 스페이스 프로그램을 플레이하려면 공통 파일이 필요합니다.",
+         "Description_ja" : "『Kerbal Space Program』のプレイに必要な共用ファイル。",
+         "Description_zh-Hans" : "游玩游戏《Kerbal Space Program》所需的通用文件。",
+         "Description_zh-Hant" : "需要一般檔案方能遊玩《坎巴拉太空計畫》。",
+         "Description_pt-BR" : "Arquivos comuns necessários para jogar Kerbal Space Program.",
+         "Description_tr" : "Kerbal Space Program oynamak için gereken ortak dosyalar.",
+         "Description_th" : "ต้องมีไฟล์ที่มีร่วมกันเพื่อเล่น Kerbal Space Program",
+         "Description_nl" : "Vereiste gemeenschappelijke bestanden om Kerbal Space Program te spelen.",
+         "Description_sv" : "Vanliga filer som krävs för att spela Kerbal Space Program.",
+         "Description_cs" : "Běžné soubory potřebné ke hraní hry Kerbal Space Program.",
+         "Description_da" : "Typiske filer, der kræves for at spille Kerbal Space Program.",
+         "Description_no" : "Fellesfiler kreves for å spille Kerbal Space Program.",
+         "Description_fi" : "Yhteiset tiedostot, jotka vaaditaan Kerbal Space Program -pelin pelaamiseen.",
+         "Description_pt" : "Ficheiros comuns necessários para jogar Kerbal Space Program.",
+         "Description_hu" : "A Kerbal Space Program játékhoz szükséges közös fájlok.",
+         "Description_ro" : "Fișiere comune necesare pentru a juca Kerbal Space Program.",
+         "Description_id" : "File umum yang dibutuhkan untuk memainkan Kerbal Space Program.",
+         "Description_vi" : "Phải có các tập tin chung để chơi Kerbal Space Program.",
+         "Description_el" : "Κοινά αρχεία που απαιτούνται για να παίξετε το Kerbal Space Program.",
+         "Description_bg" : "Общи файлове, необходими за игра на Kerbal Space Program.",
+         "Description_uk" : "Загальні файли, необхідні для гри в Kerbal Space Program.",
+         "Description_hi" : "केर्बल स्पेस प्रोग्राम खेलने के लिए आवश्यक सामान्य फ़ाइल्स।",
+         "Description_ms" : "Fail biasa yang diperlukan untuk bermain Kerbal Space Program.",
+         "Description_fil" : "Kailangan ang mga karaniwang file para makapaglaro ng Kerbal Space Program."
+      },
+      {
+         "Title" : "Additional Languages",
+         "Title_translate" : "true",
+         "Description" : "Includes localized builds of KSP 1.",
+         "Description_translate" : "true",
+         "IsDefaultExpanded" : "true",
+         "IsRequired" : "false",
+         "UniqueId" : "27F6E03BE9E94562A35E0D530C3DDC31",
+         "ConfigHandler" : "DefaultLanguage",
+         "Children" : [
+            {
+               "Title" : "English",
+               "UniqueId" : "55AC1DA45D934A17B2EA821A31B37453",
+               "ConfigValue" : "en",
+               "Tags" : [
+                  "English"
+               ]
+            },
+            {
+               "Title" : "français",
+               "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
+               "ConfigValue" : "fr",
+               "Tags" : [
+                  "French"
+               ]
+            },
+            {
+               "Title" : "Deutsch",
+               "UniqueId" : "5411AFEE311C476CA269834905E189A1",
+               "ConfigValue" : "de",
+               "Tags" : [
+                  "Deutsch"
+               ]
+            },
+            {
+               "Title" : "español (España)",
+               "UniqueId" : "9E5A24CB226E40E0942B3383C18882A2",
+               "ConfigValue" : "es-ES",
+               "Tags" : [
+                  "Spanish"
+               ]
+            },
+            {
+               "Title" : "日本語",
+               "UniqueId" : "E94E91C2D98D44698AF5AB9A49698830",
+               "ConfigValue" : "ja",
+               "Tags" : [
+                  "Japanese"
+               ]
+            },
+            {
+               "Title" : "中文（中国）",
+               "UniqueId" : "17089811470644EEAC341F8DF678D948",
+               "ConfigValue" : "zh-CN",
+               "Tags" : [
+                  "Simplified_Chinese"
+               ]
+            },
+            {
+               "Title" : "italiano",
+               "UniqueId" : "9D9456505BCE4ABEABB6763191210561",
+               "ConfigValue" : "it",
+               "Tags" : [
+                  "Italian"
+               ]
+            },
+            {
+               "Title" : "русский",
+               "UniqueId" : "016C279E75184A3999E6C6A89B21D249",
+               "ConfigValue" : "ru",
+               "Tags" : [
+                  "Russian"
+               ]
+            },
+            {
+               "Title" : "português",
+               "UniqueId" : "3AF4B791C46E4630977BCA5AC8901911",
+               "ConfigValue" : "pt-BR",
+               "Tags" : [
+                  "Portuguese"
+               ]
+            }
+         ],
+         "Title_fr" : "Langues supplémentaires",
+         "Description_fr" : "Comprend des builds localisés de KSP 1.",
+         "Title_de" : "Zusätzliche Sprachen",
+         "Description_de" : "Enthält lokalisierte Builds von KSP 1.",
+         "Title_ru" : "Дополнительные языки",
+         "Description_ru" : "В том числе локализованные версии KSP 1",
+         "Title_ko" : "언어 추가",
+         "Description_ko" : "KSP 1의 현지화된 빌드를 포함합니다.",
+         "Title_tr" : "Ek Diller",
+         "Description_tr" : "Yerelleştirilmiş KSP 1 oluşumlarını içerir.",
+         "Title_it" : "Lingue aggiuntive",
+         "Description_it" : "Include versioni localizzate per KSP 1.",
+         "Title_es" : "Idiomas adicionales",
+         "Description_es" : "Incluye versiones localizadas de KSP 1.",
+         "Title_es-MX" : "Idiomas adicionales",
+         "Description_es-MX" : "Incluye versiones localizadas de KSP 1.",
+         "Title_pl" : "Dodatkowe języki",
+         "Description_pl" : "Zawiera zlokalizowane wersje KSP 1.",
+         "Title_ar" : "لغات إضافية",
+         "Description_ar" : "يتضمن إصدارات بصياغات محلية من KSP 1.",
+         "Title_ja" : "言語の追加",
+         "Description_ja" : "ローカライズされた『KSP 1』のビルドも含まれます。",
+         "Title_zh-CN" : "额外的语言",
+         "Description_zh-CN" : "包含《KSP 1》之本地化版本",
+         "Title_pt-BR" : "Idiomas adicionais",
+         "Description_pt-BR" : "Inclui versões localizadas de KSP 1.",
+         "Title_zh-Hant" : "額外語言",
+         "Description_zh-Hant" : "包括經在地化的《KSP 1》。",
+         "Title_th" : "ภาษาเพิ่มเติม",
+         "Description_th" : "ประกอบด้วยบิลด์ที่ได้รับการแปลภาษาของ KSP 1",
+         "Title_zh-Hans" : "额外的语言",
+         "Description_zh-Hans" : "包含《KSP 1》之本地化版本。",
+         "Title_nl" : "Aanvullende talen",
+         "Description_nl" : "Bevat gelokaliseerde builds van KSP 1.",
+         "Title_sv" : "Ytterligare språk",
+         "Description_sv" : "Inkluderar lokaliserade KSP 1-versioner.",
+         "Title_cs" : "Další jazyky",
+         "Description_cs" : "Obsahuje lokalizované sestavení hry KSP 1.",
+         "Title_da" : "Yderligere sprog",
+         "Description_da" : "Indeholder lokaliserede builds af KSP 1.",
+         "Title_no" : "Ekstra språk",
+         "Description_no" : "Omfatter lokaliserte builds til KSP 1.",
+         "Title_fi" : "Muut kielet",
+         "Description_fi" : "Sisältää KSP 1:n lokalisoidut koontiversiot.",
+         "Title_pt" : "Línguas adicionais",
+         "Description_pt" : "Inclui versões localizadas do KSP 1.",
+         "Title_hu" : "További nyelvek",
+         "Description_hu" : "Tartalmazza a KSP 1 lokalizált buildjeit.",
+         "Title_ro" : "Limbi suplimentare",
+         "Description_ro" : "Include versiunile localizate ale KSP 1.",
+         "Title_id" : "Bahasa Tambahan",
+         "Description_id" : "Termasuk build lokal KSP 1.",
+         "Title_vi" : "Ngôn ngữ Khác",
+         "Description_vi" : "Bao gồm các bản dựng bản địa hóa của KSP 1.",
+         "Title_el" : "Πρόσθετες γλώσσες",
+         "Description_el" : "Περιέχει τοπικές διαμορφώσεις του KSP 1.",
+         "Title_bg" : "Допълнителни езици",
+         "Description_bg" : "Включва локализирани версии на KSP 1.",
+         "Title_uk" : "Додаткові мови",
+         "Description_uk" : "Містить локалізовані збірки KSP 1.",
+         "Title_hi" : "अतिरिक्त भाषाएँ",
+         "Description_hi" : "इसमें KSP 1 के स्थानीयकृत बिल्ड शामिल हैं।",
+         "Title_ms" : "Bahasa Tambahan",
+         "Description_ms" : "Termasuk binaan disetempatkan bagi KSP 1.",
+         "Title_fil" : "Karagdagang Wika",
+         "Description_fil" : "Kasama ang mga localized na build ng KSP 1."
+      }
+   ]
+}
