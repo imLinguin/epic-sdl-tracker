@@ -4,6 +4,7 @@ import chunk as legendary_chunk
 import manifest as legendary_manifest
 import requests
 import logging
+import shutil
 import os
 
 logging.basicConfig(level=logging.DEBUG)
@@ -44,13 +45,16 @@ for element in elements:
 
         mfst = legendary_manifest.Manifest.read_all(response.content)
 
-        os.makedirs("sdls", exist_ok=True)
+        os.makedirs("sdls-temp", exist_ok=True)
         for file in mfst.file_manifest_list.elements:
             if not file.filename.endswith("sdmeta"):
                 continue
-            with open("sdls/" + file.filename.rsplit('/', 1)[1], 'wb') as f:
+            with open("sdls-temp/" + file.filename.rsplit('/', 1)[1], 'wb') as f:
                 for part in file.chunk_parts:
                     chunk = mfst.chunk_data_list.get_chunk_by_guid(part.guid_str)
                     resp = session.get(base_url+"/"+chunk.path)
                     chunk_data = legendary_chunk.Chunk.read_buffer(resp.content)
                     f.write(chunk_data.data[part.offset:part.offset+part.size])
+
+shutil.rmtree("sdls", ignore_errors=True)
+os.rename("sdls-temp", "sdls")
