@@ -262,9 +262,9 @@
       {
          "Id" : "ue-selectiveDownloadComponent: MetaHuman Content",
          "Title_Translate" : "true",
-         "Title" : "MetaHuman Content",
+         "Title" : "MetaHuman Creator Core Data",
          "Description_Translate" : "true",
-         "Description" : "Includes the content from MetaHuman Character plugin.",
+         "Description" : "Core data needed by the MetaHuman Creator plugin.",
          "UniqueId" : "FC3994348ABE436FA086D7CDF7F980BC",
          "Tags" : [
             "metahuman_content"
