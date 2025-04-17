@@ -12,7 +12,6 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v4
-            - run: pip install requests
             - name: Run sync
               id: sync
               run: ./sync.py

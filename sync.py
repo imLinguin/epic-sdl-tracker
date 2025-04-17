@@ -46,14 +46,26 @@ for element in elements:
         mfst = legendary_manifest.Manifest.read_all(response.content)
 
         os.makedirs("sdls-temp", exist_ok=True)
+        # Get chunks
+        chunk_cache = dict()
+        for file in mfst.file_manifest_list.elements:
+            if not file.filename.endswith("sdmeta"):
+                continue
+            for part in file.chunk_parts:
+                if part.guid in chunk_cache:
+                    continue
+                chunk = mfst.chunk_data_list.get_chunk_by_guid(part.guid_str)
+                resp = session.get(base_url+"/"+chunk.path)
+                chunk_data = legendary_chunk.Chunk.read_buffer(resp.content)
+                chunk_cache[chunk.guid] = chunk_data
+
+        # Write files
         for file in mfst.file_manifest_list.elements:
             if not file.filename.endswith("sdmeta"):
                 continue
             with open("sdls-temp/" + file.filename.rsplit('/', 1)[1], 'wb') as f:
                 for part in file.chunk_parts:
-                    chunk = mfst.chunk_data_list.get_chunk_by_guid(part.guid_str)
-                    resp = session.get(base_url+"/"+chunk.path)
-                    chunk_data = legendary_chunk.Chunk.read_buffer(resp.content)
+                    chunk_data = chunk_cache[part.guid]
                     f.write(chunk_data.data[part.offset:part.offset+part.size])
 
 shutil.rmtree("sdls", ignore_errors=True)
