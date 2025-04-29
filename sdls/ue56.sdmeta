@@ -3,26 +3,14 @@
    "Builds" : [
       {
          "Namespace" : "ue",
-         "Item" : "f4b65d16262f4d1989daf3486c3a47c8",
-         "Asset" : "UE_RelTestB",
+         "Item" : "b8852c2ff00a4df8bc5c80227713494e",
+         "Asset" : "UE_RelTestA",
          "Version" : "*"
       },
       {
          "Namespace" : "ue",
-         "Item" : "aa3bb95475084190ac97c8cab3c79ab1",
-         "Asset" : "UE_5.3",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
-         "Item" : "5e7c497460f64ae19e6c3aaef8b421cc",
-         "Asset" : "UE_5.4",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
-         "Item" : "1b3c549b6a724e90ad94d9c1f410bc96",
-         "Asset" : "UE_5.5",
+         "Item" : "73923380f4d944d5bcb6d77a0640d26d",
+         "Asset" : "UE_5.6",
          "Version" : "*"
       }
    ],
@@ -264,6 +252,18 @@
          "Description_ms" : "Pasang fail .cpp sumber Enjin untuk menjadikan penyemakan imbas/penyahpepijatan kod lebih mudah, tidak boleh diubah suai dan dibina semula.",
          "Title_fil" : "Mapagkukunan ng Engine",
          "Description_fil" : "I-install ang mapagkukunan ng Engine na .cpp na mga files upang maging mas madali ang pag-browse/pag-debug ng code, hindi maaaring baguhin at itayo muli."
+      },
+      {
+         "Id" : "ue-selectiveDownloadComponent: MetaHuman Content",
+         "Title_Translate" : "true",
+         "Title" : "MetaHuman Creator Core Data",
+         "Description_Translate" : "true",
+         "Description" : "Core data needed by the MetaHuman Creator plugin.",
+         "UniqueId" : "FC3994348ABE436FA086D7CDF7F980BC",
+         "Tags" : [
+            "metahuman_content"
+         ],
+         "IsDefaultSelected" : "false"
       },
       {
          "Id" : "ue-selectiveDownloadComponent: Editor symbols for debugging",
