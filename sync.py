@@ -34,7 +34,7 @@ update_data = response.json()
 elements = update_data["elements"]
 
 for element in elements:
-    if element["appName"] == "EpicGamesLauncher":
+    if element["appName"] == "EpicGamesLauncherContent":
         if "GITHUB_OUTPUT" in os.environ:
             open(os.environ["GITHUB_OUTPUT"], 'a').write("epicversion=" + element["buildVersion"] + "\n")
 
@@ -63,7 +63,7 @@ for element in elements:
         for file in mfst.file_manifest_list.elements:
             if not file.filename.endswith("sdmeta"):
                 continue
-            with open("sdls-temp/" + file.filename.rsplit('/', 1)[1], 'wb') as f:
+            with open("sdls-temp/" + file.filename, 'wb') as f:
                 for part in file.chunk_parts:
                     chunk_data = chunk_cache[part.guid]
                     f.write(chunk_data.data[part.offset:part.offset+part.size])
