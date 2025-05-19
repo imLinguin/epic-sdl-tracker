@@ -942,7 +942,6 @@
             "UnusedOldEarlyStartupPatcherChunk",
             "GFP_BaseInstallRoot",
             "GFP_BRCosmetics",
-            "GFP_BRCosmeticsInstallOnDemand",
             "GFP_CreativeRoot",
             "GFP_BRRoot",
             "GFP_JunoRoot",
