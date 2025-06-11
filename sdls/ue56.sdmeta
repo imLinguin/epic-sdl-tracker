@@ -9,6 +9,12 @@
       },
       {
          "Namespace" : "ue",
+         "Item" : "f4b65d16262f4d1989daf3486c3a47c8",
+         "Asset" : "UE_RelTestB",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "ue",
          "Item" : "73923380f4d944d5bcb6d77a0640d26d",
          "Asset" : "UE_5.6",
          "Version" : "*"

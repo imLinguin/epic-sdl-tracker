@@ -3,12 +3,6 @@
    "Builds" : [
       {
          "Namespace" : "ue",
-         "Item" : "f4b65d16262f4d1989daf3486c3a47c8",
-         "Asset" : "UE_RelTestB",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
          "Item" : "aa3bb95475084190ac97c8cab3c79ab1",
          "Asset" : "UE_5.3",
          "Version" : "*"
