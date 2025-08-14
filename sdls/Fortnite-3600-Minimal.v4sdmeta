@@ -24,6 +24,12 @@
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
          "Version" : "Regex(\\+\\+Fortnite\\+.*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42834473)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
+         "Asset" : "80db304194914e2489c5b6fb9976c6d9",
+         "Version" : "Regex(\\+\\+Fortnite\\+.*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42834473)"
       }
    ],
    "Data" : [
