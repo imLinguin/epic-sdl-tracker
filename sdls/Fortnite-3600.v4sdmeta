@@ -543,6 +543,18 @@
       },
       {
          "Namespace" : "fn",
+         "Item" : "7b2fb1e0372b4c009383edd81dfaa5df",
+         "Asset" : "e9006a8e6c144531892307eab47e54a3",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 36 && RegexGroupInt64(3) >= 42732110)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "9ea04f40b7374d8eadd555647e82fdc0",
+         "Asset" : "38899c748d6549c3bf629c20d96fb165",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 36 && RegexGroupInt64(3) >= 42732110)"
+      },
+      {
+         "Namespace" : "fn",
          "Item" : "b4cf457d7b33451ebc312c272e7f167c",
          "Asset" : "FortniteBurnout",
          "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110)"
@@ -971,6 +983,18 @@
          "Namespace" : "fn",
          "Item" : "e6a530b2c34a42abb77ec5bb65b86043",
          "Asset" : "27148f0221284f13b3a987d2af82d5ab",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "7b2fb1e0372b4c009383edd81dfaa5df",
+         "Asset" : "e9006a8e6c144531892307eab47e54a3",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "9ea04f40b7374d8eadd555647e82fdc0",
+         "Asset" : "38899c748d6549c3bf629c20d96fb165",
          "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110)"
       }
    ],
