@@ -309,12 +309,6 @@
       },
       {
          "Namespace" : "fn",
-         "Item" : "480ebc8605c94d319f7a453375b7209e",
-         "Asset" : "29b2e15b98e74c4cb1867aafcb3e6d8e",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45214356)"
-      },
-      {
-         "Namespace" : "fn",
          "Item" : "26ff7517e8104f7abab3c0de13629df5",
          "Asset" : "fb0a4eff523c42f08a3c33397fb9d632",
          "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45214356)"
@@ -765,12 +759,6 @@
       },
       {
          "Namespace" : "fn",
-         "Item" : "480ebc8605c94d319f7a453375b7209e",
-         "Asset" : "29b2e15b98e74c4cb1867aafcb3e6d8e",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 45214356)"
-      },
-      {
-         "Namespace" : "fn",
          "Item" : "26ff7517e8104f7abab3c0de13629df5",
          "Asset" : "fb0a4eff523c42f08a3c33397fb9d632",
          "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 45214356)"
@@ -1217,12 +1205,6 @@
          "Namespace" : "fn",
          "Item" : "0b8a8828889b422ca0784c824dc696d0",
          "Asset" : "567f2a3bdac048ce92292c4019ef01ac",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev-FN-(\\d+)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38) && (RegexGroupInt64(2) >= 45214356)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "480ebc8605c94d319f7a453375b7209e",
-         "Asset" : "29b2e15b98e74c4cb1867aafcb3e6d8e",
          "Version" : "Regex(\\+\\+Fortnite\\+Dev-FN-(\\d+)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 38) && (RegexGroupInt64(2) >= 45214356)"
       },
       {
