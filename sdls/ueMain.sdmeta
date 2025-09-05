@@ -18,6 +18,18 @@
          "Item" : "0b035bc4ee874e35ae8ee4924d15ed15",
          "Asset" : "UE_MainTestB",
          "Version" : "*"
+      },
+      {
+         "Namespace" : "ue",
+         "Item" : "b8852c2ff00a4df8bc5c80227713494e",
+         "Asset" : "UE_RelTestA",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "ue",
+         "Item" : "f4b65d16262f4d1989daf3486c3a47c8",
+         "Asset" : "UE_RelTestB",
+         "Version" : "*"
       }
    ],
    "Data" : [
