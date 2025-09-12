@@ -5,13 +5,13 @@
          "Namespace" : "fn",
          "Item" : "072312c5ca9f438c92a511857eac9200",
          "Asset" : "FortniteNvidiaEarlyUpdate",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45214356 && RegexGroupInt64(3) < 45727736)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45727736)"
       },
       {
          "Namespace" : "fn",
          "Item" : "619437582af048b7866be79d299c0878",
          "Asset" : "FortniteDevPlaytestO",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45214356 && RegexGroupInt64(3) < 45727736)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45727736)"
       }
    ],
    "Data" : [
@@ -31,6 +31,7 @@
             "GFP_BaseInstallRoot",
             "GFP_BRCosmetics",
             "GFP_BRCosmeticsInstallOnDemand",
+            "GFP_BRCosmeticsInstallOnDemandFat",
             "GFP_CreativeRoot",
             "GFP_BRRoot",
             "GFP_JunoRoot",
