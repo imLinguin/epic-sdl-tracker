@@ -1479,6 +1479,7 @@
             "GFP_Sparks",
             "GFP_BlitzRoot",
             "FortniteBR",
+            "FNOne",
             ""
          ],
          "Title_fr" : "Fortnite de base et Battle Royale",
@@ -1646,7 +1647,8 @@
             "GFP_DelMarRootOptional",
             "GFP_SparksOptional",
             "GFP_BlitzRootOptional",
-            "FortniteBROptional"
+            "FortniteBROptional",
+            "FNOneOptional"
          ],
          "Title_fr" : "Textures haute résolution",
          "Description_fr" : "Fichiers requis pour jouer à Fortnite dans toute sa splendeur.",
