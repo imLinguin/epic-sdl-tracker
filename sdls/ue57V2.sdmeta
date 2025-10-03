@@ -3,33 +3,9 @@
    "Builds" : [
       {
          "Namespace" : "ue",
-         "Item" : "706712e2d45c4b88b94daf4c55ba4f23",
-         "Asset" : "UE_Main",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
-         "Item" : "79e7e65d3a15428190830dc3e9143edd",
-         "Asset" : "UE_MainTest",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
-         "Item" : "0b035bc4ee874e35ae8ee4924d15ed15",
-         "Asset" : "UE_MainTestB",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
-         "Item" : "b8852c2ff00a4df8bc5c80227713494e",
-         "Asset" : "UE_RelTestA",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
-         "Item" : "f4b65d16262f4d1989daf3486c3a47c8",
-         "Asset" : "UE_RelTestB",
-         "Version" : "*"
+         "Item" : "7299c1cd206b4bb58658a98199b66860",
+         "Asset" : "UE_5.7",
+         "Version" : "Regex(5\\.7\\.(\\d+)-(\\d+).*) && RegexGroupInt64(2) >= 46275467"
       }
    ],
    "Data" : [
@@ -214,8 +190,8 @@
          "Description_pl" : "Dane podstawowe, których wymaga wtyczka MetaHuman Creator.",
          "Title_ar" : "بيانات MetaHuman Creator الأساسية",
          "Description_ar" : "بيانات أساسية ضرورية للمكون الإضافي MetaHuman Creator.",
-         "Title_ko" : "메타휴먼 크리에이터 핵심 데이터",
-         "Description_ko" : "메타휴먼 크리에이터 플러그인에 필요한 핵심 데이터입니다.",
+         "Title_ko" : "메타휴먼 크리에이터 코어 데이터",
+         "Description_ko" : "메타휴먼 크리에이터 플러그인에 필요한 코어 데이터입니다.",
          "Title_ja" : "MetaHuman Creatorコアデータ",
          "Description_ja" : "MetaHuman Creatorプラグインに必要なコアデータ。",
          "Title_zh-Hans" : "MetaHuman Creator 核心数据",
@@ -279,7 +255,7 @@
          "Description_fr" : "Comprend les symboles permettant le débogage de projets en C++ dans l'éditeur.",
          "Title_de" : "Editor-Symbole für das Debugging",
          "Description_de" : "Beinhaltet Symbole, die das Debuggen von C++-Projekten im Editor ermöglichen.",
-         "Title_ko" : "디버깅을 위한 편집기 기호",
+         "Title_ko" : "디버깅을 위한 에디터 심볼",
          "Description_ko" : "에디터에서의 C++ 프로젝트 디버깅용 심볼을 포함시킵니다.",
          "Title_it" : "Simboli dell'editor per il debug",
          "Description_it" : "Include simboli per consentire il debug di progetti in C++ nell'editor.",
@@ -724,7 +700,7 @@
          "Title_ms" : "Platform Sasaran",
          "Description_ms" : "Termasuk platform sasaran berbeza yang boleh anda ciptakan Unreal Project.",
          "Title_fil" : "Target na mga Platform",
-         "Description_fil" : "Kasama ang mga iba't ibang target na platform kung saan makakagawa ka ng mga Unreal Project."
+         "Description_fil" : "Kasama ang iba't ibang target na platform kung saan makakagawa ka ng mga Unreal Project."
       }
    ]
 }

@@ -3,21 +3,9 @@
    "Builds" : [
       {
          "Namespace" : "ue",
-         "Item" : "b8852c2ff00a4df8bc5c80227713494e",
-         "Asset" : "UE_RelTestA",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
-         "Item" : "f4b65d16262f4d1989daf3486c3a47c8",
-         "Asset" : "UE_RelTestB",
-         "Version" : "*"
-      },
-      {
-         "Namespace" : "ue",
          "Item" : "7299c1cd206b4bb58658a98199b66860",
          "Asset" : "UE_5.7",
-         "Version" : "*"
+         "Version" : "Regex(5\\.7\\.(\\d+)-(\\d+).*) && RegexGroupInt64(2) < 46275467"
       }
    ],
    "Data" : [
