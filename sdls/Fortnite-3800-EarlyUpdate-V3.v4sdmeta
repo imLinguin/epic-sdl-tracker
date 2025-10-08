@@ -5,13 +5,13 @@
          "Namespace" : "fn",
          "Item" : "072312c5ca9f438c92a511857eac9200",
          "Asset" : "FortniteNvidiaEarlyUpdate",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45727736 && RegexGroupInt64(3) < 46680481)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 46680481)"
       },
       {
          "Namespace" : "fn",
          "Item" : "619437582af048b7866be79d299c0878",
          "Asset" : "FortniteDevPlaytestO",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 45727736 && RegexGroupInt64(3) < 46680481)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 46680481)"
       }
    ],
    "Data" : [
@@ -28,6 +28,7 @@
             "Encrypted",
             "DefaultGameplayChunk",
             "UnusedOldEarlyStartupPatcherChunk",
+            "CosmeticPreInstall",
             "GFP_BaseInstallRoot",
             "GFP_BRCosmetics",
             "GFP_BRCosmeticsInstallOnDemand",
@@ -38,6 +39,7 @@
             "GFP_DelMarRoot",
             "GFP_Sparks",
             "GFP_BlitzRoot",
+            "GFP_StrideMiceRoot",
             "FortniteBR",
             ""
          ],
@@ -197,6 +199,7 @@
             "FrontEndOptional",
             "EncryptedOptional",
             "DefaultGameplayChunkOptional",
+            "CosmeticPreInstallOptional",
             "GFP_BaseInstallRootOptional",
             "GFP_BRCosmeticsOptional",
             "GFP_CreativeRootOptional",
@@ -205,6 +208,7 @@
             "GFP_DelMarRootOptional",
             "GFP_SparksOptional",
             "GFP_BlitzRootOptional",
+            "GFP_StrideMiceRootOptional",
             "FortniteBROptional"
          ],
          "Title_fr" : "Textures haute résolution",

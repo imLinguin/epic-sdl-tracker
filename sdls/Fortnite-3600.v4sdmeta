@@ -573,6 +573,12 @@
       },
       {
          "Namespace" : "fn",
+         "Item" : "057afc40829849e790b54addf45a976d",
+         "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 36 && RegexGroupInt64(3) >= 42732110) && (RegexGroupInt64(1) < 38 || RegexGroupInt64(3) < 45214356)"
+      },
+      {
+         "Namespace" : "fn",
          "Item" : "aca952d51fb74bb38c518a1a36eee402",
          "Asset" : "FortniteDevPlaytest",
          "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110) && (RegexGroupInt64(1) < 45214356)"
@@ -1023,12 +1029,6 @@
       },
       {
          "Namespace" : "fn",
-         "Item" : "aca952d51fb74bb38c518a1a36eee402",
-         "Asset" : "FortniteDevPlaytest",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110) && (RegexGroupInt64(1) < 45214356)"
-      },
-      {
-         "Namespace" : "fn",
          "Item" : "c1db95ac167e40ae9e51525bb80bc992",
          "Asset" : "4f5aa1e3dd644afa93fa836dd9279d19",
          "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110) && (RegexGroupInt64(1) < 45214356)"
@@ -1044,6 +1044,18 @@
          "Item" : "751d2609fa6d4b4097d7192e16712f14",
          "Asset" : "a658138a871f45b2be1e12d1315cf0a6",
          "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110) && (RegexGroupInt64(1) < 45214356)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "057afc40829849e790b54addf45a976d",
+         "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 42732110) && (RegexGroupInt64(1) < 45214356)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "aca952d51fb74bb38c518a1a36eee402",
+         "Asset" : "FortniteDevPlaytest",
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev-FN-(\\d+)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) < 38) || (RegexGroupInt64(2) < 45214356)"
       },
       {
          "Namespace" : "fn",
@@ -1505,6 +1517,12 @@
          "Namespace" : "fn",
          "Item" : "751d2609fa6d4b4097d7192e16712f14",
          "Asset" : "a658138a871f45b2be1e12d1315cf0a6",
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev-FN-(\\d+)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) < 38) || (RegexGroupInt64(2) < 45214356)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "057afc40829849e790b54addf45a976d",
+         "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
          "Version" : "Regex(\\+\\+Fortnite\\+Dev-FN-(\\d+)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) < 38) || (RegexGroupInt64(2) < 45214356)"
       }
    ],
