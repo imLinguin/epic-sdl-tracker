@@ -277,7 +277,7 @@
          "Description_fr" : "Comprend les symboles permettant le débogage de projets en C++ dans l'éditeur.",
          "Title_de" : "Editor-Symbole für das Debugging",
          "Description_de" : "Beinhaltet Symbole, die das Debuggen von C++-Projekten im Editor ermöglichen.",
-         "Title_ko" : "디버깅을 위한 편집기 기호",
+         "Title_ko" : "디버깅을 위한 에디터 심볼",
          "Description_ko" : "에디터에서의 C++ 프로젝트 디버깅용 심볼을 포함시킵니다.",
          "Title_it" : "Simboli dell'editor per il debug",
          "Description_it" : "Include simboli per consentire il debug di progetti in C++ nell'editor.",
@@ -520,7 +520,7 @@
                "Description_ko" : "iOS 용 바이너리를 포함시킵니다.",
                "Title_it" : "IOS",
                "Description_it" : "Include binari per IOS.",
-               "Title_ru" : "IOS",
+               "Title_ru" : "iOS",
                "Description_ru" : "Включает двоичные файлы для IOS.",
                "Title_pl" : "IOS",
                "Description_pl" : "Zawiera pliki binarne dla platformy IOS.",
@@ -789,7 +789,7 @@
          "Title_ms" : "Platform Sasaran",
          "Description_ms" : "Termasuk platform sasaran berbeza yang boleh anda ciptakan Unreal Project.",
          "Title_fil" : "Target na mga Platform",
-         "Description_fil" : "Kasama ang mga iba't ibang target na platform kung saan makakagawa ka ng mga Unreal Project."
+         "Description_fil" : "Kasama ang iba't ibang target na platform kung saan makakagawa ka ng mga Unreal Project."
       }
    ]
 }
