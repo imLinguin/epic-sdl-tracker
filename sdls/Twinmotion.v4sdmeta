@@ -12,6 +12,18 @@
          "Item" : "026348af9b054a26ba5e08451259e0cc",
          "Asset" : "44e3691ff8014df8b7a9062ae494957f",
          "Version" : "Regex(GAMEDEV_(?:WINDOWS|OSX)_(\\d+)\\.(\\d+)\\.(\\d+)) && (RegexGroupInt64(1) >= 2025) && (RegexGroupInt64(3) >= 40642457)"
+      },
+      {
+         "Namespace" : "poodle",
+         "Item" : "dd13a9fbb44f44368d973c9521cfb0d1",
+         "Asset" : "e6e4333cf3b14b65ac47c8e03291238c",
+         "Version" : "Regex(RELEASE_(?:WINDOWS|OSX)_(\\d+)\\.(\\d+)\\.(\\d+)) && (RegexGroupInt64(1) >= 2025) && (RegexGroupInt64(3) >= 40642457)"
+      },
+      {
+         "Namespace" : "poodle",
+         "Item" : "f68cb26e438142378b97824441cc0361",
+         "Asset" : "01b6c8a23c79430c8db03b7982ee1193",
+         "Version" : "Regex(GAMEDEV_(?:WINDOWS|OSX)_(\\d+)\\.(\\d+)\\.(\\d+)) && (RegexGroupInt64(1) >= 2025) && (RegexGroupInt64(3) >= 40642457)"
       }
    ],
    "Data" : [
