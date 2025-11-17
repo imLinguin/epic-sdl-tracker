@@ -1,0 +1,74 @@
+﻿{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "d9e76774ab0f446c9a506a79e0255252",
+         "Item" : "439b95810ef74c67b8fc2bcf4d0a4eec",
+         "Asset" : "31ebf6d2e0ac4cfdb177230d58811e1d",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "d9e76774ab0f446c9a506a79e0255252",
+         "Item" : "fc4def9578b6451289c5ea63bc9e4a0e",
+         "Asset" : "6285c30f19e44e2caad2fc880c23a8d3",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "d9e76774ab0f446c9a506a79e0255252",
+         "Item" : "1d08e394ad914eb59736f5ae0438c6b5",
+         "Asset" : "1da90607ed3c4c79ac6dd46780053b4a",
+         "Version" : "*"
+      },
+	  {
+		 "Namespace" : "d9e76774ab0f446c9a506a79e0255252",
+         "Item" : "6219fd5450a448779a7c7b8fb249232e",
+         "Asset" : "90ab4c3f02ce451f9d01dd7be288eb67",
+         "Version" : "*"
+	  }
+   ],
+   "Data" : [
+      {
+         "Title" : "The Lesser Zone kit",
+         "Description" : "Minimalistic SDK for config-only mods.",
+         "Description_translate" : "true",
+         "IsRequired" : "true",
+         "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
+         "Tags" : [
+            ""
+         ]
+      },
+      {
+         "Title" : "Zone Kit editor",
+         "Description" : "SDK with Unreal editor user interface.",
+         "Description_translate" : "true",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "UniqueId" : "55AC1DA45D934A17B2EA821A31B37453",
+         "Tags" : [
+            "FullEditor"
+         ]
+      },
+      {
+         "Title" : "Cutscenes",
+         "Description" : "Сhunk with in-game cinematics.",
+         "Description_translate" : "true",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
+         "Tags" : [
+            "Cutscenes"
+         ]
+      },
+      {
+         "Title" : "World Map",
+         "Description" : "Chunk with World Map actors.",
+         "Description_translate" : "true",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "UniqueId" : "5411AFEE311C476CA269834905E189A1",
+         "Tags" : [
+            "WorldMap"
+         ]
+      }
+   ]
+}
