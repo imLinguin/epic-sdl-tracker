@@ -19,12 +19,12 @@
          "Asset" : "1da90607ed3c4c79ac6dd46780053b4a",
          "Version" : "*"
       },
-	  {
-		 "Namespace" : "d9e76774ab0f446c9a506a79e0255252",
+      {
+         "Namespace" : "d9e76774ab0f446c9a506a79e0255252",
          "Item" : "6219fd5450a448779a7c7b8fb249232e",
          "Asset" : "90ab4c3f02ce451f9d01dd7be288eb67",
          "Version" : "*"
-	  }
+      }
    ],
    "Data" : [
       {
@@ -35,7 +35,38 @@
          "UniqueId" : "A17316661F902216B15E8DAB34ECCD71",
          "Tags" : [
             ""
-         ]
+         ],
+         "Description_fr" : "SDK minimaliste pour mods à configuration obligatoire.",
+         "Description_it" : "SDK minimalista per mod di sola configurazione.",
+         "Description_de" : "Minimalistisches SDK für reine Konfigurationsmods.",
+         "Description_es" : "SDK minimalista para mods de solo configuración.",
+         "Description_es-MX" : "SDK minimalista para mods basados solo en configuración.",
+         "Description_ru" : "Компактный SDK для модификаций файлов конфигурации.",
+         "Description_pl" : "Minimalistyczny SDK do modów opartych wyłącznie na konfiguracji.",
+         "Description_ar" : "حزمة SDK مختصرة مخصصة لتعديلات التكوين فحسب.",
+         "Description_ko" : "구성 전용 모드용 최소 SDK입니다.",
+         "Description_ja" : "設定のみのMOD用の最小限のSDK。",
+         "Description_zh-Hans" : "极简 SDK，适用于仅配置类 Mod。",
+         "Description_zh-Hant" : "適用於純設定檔模組的極簡 SDK。",
+         "Description_pt-BR" : "SDK minimalista para mods. apenas de configuração.",
+         "Description_tr" : "Yalnızca yapılandırma modları için minimalist SDK.",
+         "Description_th" : "SDK แบบเรียบง่ายสำหรับม็อดแบบกำหนดค่าเท่านั้น",
+         "Description_nl" : "Minimalistische SDK voor config-only-mods.",
+         "Description_sv" : "Minimalistiskt SDK för mods som endast kräver konfiguration.",
+         "Description_cs" : "Minimalistické SDK pro mody pouze s konfigurací.",
+         "Description_da" : "Minimalistisk SDK til mods, der kun omfatter konfiguration.",
+         "Description_no" : "Minimalistisk SDK for konfigurasjonsbaserte modifikasjoner.",
+         "Description_fi" : "Minimalistinen SDK vain konfiguraatiomodeille.",
+         "Description_pt" : "SDK minimalista para modificações apenas de configuração.",
+         "Description_hu" : "Minimalista SDK konfigurációs modokhoz.",
+         "Description_ro" : "SDK minimalist pentru moduri doar de configurare.",
+         "Description_id" : "SDK minimalis untuk mod khusus konfig.",
+         "Description_vi" : "SDK tối giản cho bản mod chỉ có chức năng cấu hình.",
+         "Description_bg" : "Минималистичен SDK за модификации само на конфигурации.",
+         "Description_uk" : "Мінімалістичний SDK для налаштування модифікацій.",
+         "Description_hi" : "सिर्फ़ कॉन्फ़िगरेशन वाले मॉड्स के लिए न्यूनतम SDK।",
+         "Description_ms" : "SDK minimalis untuk mod yang hanya berasaskan konfigurasi.",
+         "Description_fil" : "Minimalistic na SDK para sa mga config-only mod."
       },
       {
          "Title" : "Zone Kit editor",
@@ -46,7 +77,38 @@
          "UniqueId" : "55AC1DA45D934A17B2EA821A31B37453",
          "Tags" : [
             "FullEditor"
-         ]
+         ],
+         "Description_fr" : "SDK avec l'interface utilisateur de l'Unreal Editor.",
+         "Description_it" : "SDK con interfaccia utente dell'Unreal Editor.",
+         "Description_de" : "SDK mit Unreal Editor-Benutzeroberfläche.",
+         "Description_es" : "SDK con la interfaz de usuario de Unreal Editor.",
+         "Description_es-MX" : "SDK con interfaz de usuario de Unreal Editor.",
+         "Description_ru" : "SDK с интерфейсом Unreal Editor.",
+         "Description_pl" : "SDK z interfejsem użytkownika Unreal Editor.",
+         "Description_ar" : "حزمة SDK مزودة بواجهة Unreal Editor.",
+         "Description_ko" : "언리얼 에디터 유저 인터페이스가 포함된 SDK입니다.",
+         "Description_ja" : "Unreal Editorのユーザーインターフェースを備えたSDK。",
+         "Description_zh-Hans" : "包含 Unreal Editor 器用户界面的 SDK。",
+         "Description_zh-Hant" : "具備 Unreal Editor 器使用者介面的 SDK。",
+         "Description_pt-BR" : "SDK com interface de usuário do Unreal Editor.",
+         "Description_tr" : "Unreal Editor kullanıcı arayüzlü SDK.",
+         "Description_th" : "SDK พร้อมอินเทอร์เฟซผู้ใช้ Unreal Editor",
+         "Description_nl" : "SDK met Unreal Editor-gebruikersinterface.",
+         "Description_sv" : "SDK med Unreal Editor-användargränssnitt.",
+         "Description_cs" : "SDK s uživatelským rozhraním editoru Unreal.",
+         "Description_da" : "SDK med Unreal Editor-brugergrænseflade.",
+         "Description_no" : "SDK med Unreal Editor-brukergrensesnitt.",
+         "Description_fi" : "SDK ja Unreal-editorin käyttöliittymä.",
+         "Description_pt" : "SDK com interface de utilizador do editor Unreal.",
+         "Description_hu" : "Unreal Editor felhasználói felületet használó SDK.",
+         "Description_ro" : "SDK cu interfață utilizator pentru editorul Unreal.",
+         "Description_id" : "SDK dengan antarmuka pengguna editor Unreal.",
+         "Description_vi" : "SDK với giao diện người dùng Unreal Editor.",
+         "Description_bg" : "SDK с потребителски интерфейс на Unreal Editor.",
+         "Description_uk" : "SDK з інтерфейсом редактора Unreal.",
+         "Description_hi" : "Unreal एडिटर उपयोगकर्ता इंटरफ़ेस के साथ SDK।",
+         "Description_ms" : "SDK dengan antara muka pengguna editor Unreal.",
+         "Description_fil" : "SDK na may user interface ng Unreal editor."
       },
       {
          "Title" : "Cutscenes",
@@ -57,7 +119,38 @@
          "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
          "Tags" : [
             "Cutscenes"
-         ]
+         ],
+         "Description_fr" : "Chunk avec les cinématiques en jeu.",
+         "Description_it" : "Materiale con filmati di gioco.",
+         "Description_de" : "Chunk mit Zwischensequenzen im Spiel.",
+         "Description_es" : "Colección con cinemáticas del juego.",
+         "Description_es-MX" : "Chunk con cinemáticas dentro del juego.",
+         "Description_ru" : "Блок данных с игровыми видео.",
+         "Description_pl" : "Blok danych z przerywnikami filmowymi w grze.",
+         "Description_ar" : "كتلة بيانات تضم المشاهد السينمائية داخل اللعبة.",
+         "Description_ko" : "게임 내 시네마틱이 포함된 청크입니다.",
+         "Description_ja" : "ゲーム内シネマティックを備えたチャンク。",
+         "Description_zh-Hans" : "带有游戏内过场动画。",
+         "Description_zh-Hant" : "包含遊戲內電影場景的資料區塊。",
+         "Description_pt-BR" : "Сhunk com cinemáticas do jogo.",
+         "Description_tr" : "Oyun içi sinematikler yığını.",
+         "Description_th" : "เต็มไปด้วยฉากแอ็คชั่นในเกม",
+         "Description_nl" : "Сhunk met in-game cinematics.",
+         "Description_sv" : "Сhunk med filmsekvenser i spelet.",
+         "Description_cs" : "Chunk s herní kinematografií.",
+         "Description_da" : "Stykke med mellemsekvenser fra spillet.",
+         "Description_no" : "Del med mellomsekvenser.",
+         "Description_fi" : "Pelinsisäisiä elokuvaosuuksia.",
+         "Description_pt" : "Parte com sequências cinematográficas no jogo.",
+         "Description_hu" : "Játékon belüli videókat tartalmazó csomag.",
+         "Description_ro" : "Porțiune cu secvențe cinematice din joc.",
+         "Description_id" : "Chunk dengan sinematik dalam game.",
+         "Description_vi" : "Phân khúc với đoạn phim trong trò chơi.",
+         "Description_bg" : "Раздел със синематика в играта.",
+         "Description_uk" : "Чанк з ігровими відеовставками.",
+         "Description_hi" : "इन-गेम सिनेमैटिक्स के साथ चंक।",
+         "Description_ms" : "Segmen dengan sinematik dalam permainan.",
+         "Description_fil" : "Сhunk na may in-game cinematics."
       },
       {
          "Title" : "World Map",
@@ -68,7 +161,38 @@
          "UniqueId" : "5411AFEE311C476CA269834905E189A1",
          "Tags" : [
             "WorldMap"
-         ]
+         ],
+         "Description_fr" : "Chunk avec les acteurs de la carte du monde.",
+         "Description_it" : "Materiale con attori della mappa del mondo.",
+         "Description_de" : "Chunk mit Weltkarten-Schauspielern.",
+         "Description_es" : "Colección con actores del mapa del mundo.",
+         "Description_es-MX" : "Chunk con actores del mapa mundial.",
+         "Description_ru" : "Блок данных с актёрами карты мира.",
+         "Description_pl" : "Blok danych z aktorami mapy świata.",
+         "Description_ar" : "كتلة بيانات تضم كيانات خريطة العالم.",
+         "Description_ko" : "월드 맵 액터가 포함된 청크입니다.",
+         "Description_ja" : "ワールドマップアクタを備えたチャンク。",
+         "Description_zh-Hans" : "带有世界地图 Actor。",
+         "Description_zh-Hant" : "包含世界地圖角色的資料區塊。",
+         "Description_pt-BR" : "Chunk com atores de mapa do mundo.",
+         "Description_tr" : "Dünya Haritası aktörleri yığını.",
+         "Description_th" : "เต็มไปด้วยตัวละครบนแผนที่โลก",
+         "Description_nl" : "Chunk met World Map-acteurs.",
+         "Description_sv" : "Chunk med aktörer från världskartan.",
+         "Description_cs" : "Chunk s herci z mapy světa.",
+         "Description_da" : "Stykke med verdenskort-aktører.",
+         "Description_no" : "Del med verdenskartaktører.",
+         "Description_fi" : "Maailmankartan näyttelijöitä.",
+         "Description_pt" : "Parte com atores do Mapa do Mundo.",
+         "Description_hu" : "Világtérkép-aktorokat tartalmazó csomag.",
+         "Description_ro" : "Porțiune cu actori din harta lumii.",
+         "Description_id" : "Chunk dengan aktor World Map.",
+         "Description_vi" : "Phân khúc với đối tượng trong Bản Đồ Thế Giới.",
+         "Description_bg" : "Раздел с актьори на световна карта.",
+         "Description_uk" : "Чанк з акторами мапи світу.",
+         "Description_hi" : "वर्ल्ड मैप एक्टर्स वाले चंक।",
+         "Description_ms" : "Segmen dengan pelakon Peta Dunia.",
+         "Description_fil" : "Chunk na may mga World Map actor."
       }
    ]
 }
