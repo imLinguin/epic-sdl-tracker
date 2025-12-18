@@ -5,7 +5,7 @@
          "Namespace" : "fn",
          "Item" : "4fe75bbc5a674f4f9b356b5c90567da5",
          "Asset" : "Fortnite",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 38 && RegexGroupInt64(3) >= 46680481) && ((RegexGroupInt64(1) < 39 || (RegexGroupInt64(1) == 39 && RegexGroupInt64(2) <= 11)) && RegexGroupInt64(3) < NEW_CL)"
+         "Version": "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) == 39 && RegexGroupInt64(2) >= 11 && RegexGroupInt64(3) >= 49184419)"
       },
       {
          "Namespace" : "fn",
