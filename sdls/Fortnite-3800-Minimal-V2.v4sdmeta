@@ -5,91 +5,151 @@
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 48574799)"
       },
       {
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49043990)"
       },
       {
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 60000000)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "b569d2c3aa994e43849d999146fdae01",
+         "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49716635)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "c48c129830b64e919c57711bfee27391",
+         "Asset" : "FortniteFlames",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49716635)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
+         "Asset" : "59c73500e48f4411a0a852b3e4502c42",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49716635)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
+         "Asset" : "a6ca9357458d44b292f707154ec51d98",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49716635)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
+         "Asset" : "80db304194914e2489c5b6fb9976c6d9",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49716635)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "b569d2c3aa994e43849d999146fdae01",
+         "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49994911)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "c48c129830b64e919c57711bfee27391",
+         "Asset" : "FortniteFlames",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49994911)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
+         "Asset" : "59c73500e48f4411a0a852b3e4502c42",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49994911)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
+         "Asset" : "a6ca9357458d44b292f707154ec51d98",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49994911)"
+      },
+      {
+         "Namespace" : "fn",
+         "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
+         "Asset" : "80db304194914e2489c5b6fb9976c6d9",
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 47388937 && RegexGroupInt64(1) < 49994911)"
       }
    ],
    "Data" : [
