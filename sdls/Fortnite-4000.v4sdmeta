@@ -881,7 +881,7 @@
          "Namespace" : "fn",
          "Item" : "bf0804c241ba4609b861ec5d7f9c32ed",
          "Asset" : "e819110db75f41c2b01be8a13002b6a0",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 48545143)"
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Main|Dev(?!-FN-\\d+)(?!-Coronado-?\\w*).*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 48545143)"
       },
       {
          "Namespace" : "fn",
