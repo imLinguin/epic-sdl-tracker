@@ -5,13 +5,13 @@
          "Namespace" : "fn",
          "Item" : "072312c5ca9f438c92a511857eac9200",
          "Asset" : "FortniteNvidiaEarlyUpdate",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 40 && RegexGroupInt64(3) >= 48545143 && RegexGroupInt64(3) < 50544032)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 40 && RegexGroupInt64(3) >= 50544032)"
       },
       {
          "Namespace" : "fn",
          "Item" : "619437582af048b7866be79d299c0878",
          "Asset" : "FortniteDevPlaytestO",
-         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 40 && RegexGroupInt64(3) >= 48545143 && RegexGroupInt64(3) < 50544032)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 40 && RegexGroupInt64(3) >= 50544032)"
       }
    ],
    "Data" : [
@@ -42,6 +42,7 @@
             "GFP_BlitzRoot",
             "GFP_StrideMiceRoot",
             "FortniteBR",
+            "FortniteCatchAll",
             ""
          ],
          "Title_fr" : "Fortnite de base et Battle Royale",
@@ -210,7 +211,8 @@
             "GFP_SparksOptional",
             "GFP_BlitzRootOptional",
             "GFP_StrideMiceRootOptional",
-            "FortniteBROptional"
+            "FortniteBROptional",
+            "FortniteCatchAllOptional"
          ],
          "Title_fr" : "Textures haute résolution",
          "Description_fr" : "Fichiers requis pour jouer à Fortnite dans toute sa splendeur.",
