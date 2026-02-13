@@ -1,0 +1,103 @@
+﻿{
+   "DataType": "SelDlMeta",
+   "Builds": [
+      {
+         "Namespace": "dae80c0d4e3b4d648498b48af609b8bb",
+         "Item": "beeb28e0f04d46ab81b5849f0007e016",
+         "Asset": "13f4dacea37e4f99be9def349405de22",
+         "Version": "*"
+      },
+      {
+         "Namespace": "dae80c0d4e3b4d648498b48af609b8bb",
+         "Item": "f81b9684239e4cc2a9cab36f938cab81",
+         "Asset": "4d0580fc00b74d54bf909d3e75f594e5",
+         "Version": "*"
+      },
+      {
+         "Namespace": "dae80c0d4e3b4d648498b48af609b8bb",
+         "Item": "f4d7f43077464a078a2f3b2ea1a27366",
+         "Asset": "95dc9c76e91041279de1f72f64d65f28",
+         "Version": "*"
+      },
+      {
+         "Namespace": "dae80c0d4e3b4d648498b48af609b8bb",
+         "Item": "6e1a3aebf1e347c1b8dd5a28cab5f4c8",
+         "Asset": "fb67ca3f5de74da880ab96bdc668118d",
+         "Version": "*"
+      }
+   ],
+   "Data": [
+      {
+         "Title": "Ark: Survival Ascended",
+         "Description": "Common files required to create mods for Ark: Survival Ascended.",
+         "IsRequired": "true",
+         "UniqueId": "105A382ADC624A178E2290F03A97F285",
+         "Tags": [
+            ""
+         ]
+      },
+      {
+         "Title": "Scorched Earth",
+         "Description": "Map assets from the Scorched Earth DLC. Using these assets in mods will create a dependency on Scorched Earth being installed in the live game.",
+         "IsRequired": "false",
+         "UniqueId": "2D685A014BCF4419B1CD3F07D9BFDB0B",
+         "Tags": [
+            "ScorchedEarth"
+         ]
+      },
+      {
+         "Title": "Aberration",
+         "Description": "Map assets from the Aberration DLC. Using these assets in mods will create a dependency on Aberration being installed in the live game.",
+         "IsRequired": "false",
+         "UniqueId": "673CAC7ADB5D41909520E2C94A367852",
+         "Tags": [
+            "Aberration"
+         ]
+      },
+      {
+         "Title": "Extinction",
+         "Description": "Map assets from the Extinction DLC. Using these assets in mods will create a dependency on Extinction being installed in the live game.",
+         "IsRequired": "false",
+         "UniqueId": "34AB4BEB78A0499E99B6B1DF4AC7AFCF",
+         "Tags": [
+            "Extinction"
+         ]
+      },
+      {
+         "Title": "Lost Colony",
+         "Description": "Map assets from the Lost Colony DLC. Using these assets in mods will create a dependency on Lost Colony being installed in the live game. (Please note that this is a paid DLC)",
+         "IsRequired": "false",
+         "UniqueId": "F7F2F02E316641E7B878023765F1204D",
+         "Tags": [
+            "LostColony"
+         ]
+      },
+      {
+         "Title": "The Center",
+         "Description": "Map assets from The Center DLC. Using these assets in mods will create a dependency on The Center being installed in the live game.",
+         "IsRequired": "false",
+         "UniqueId": "598DA9582ACE4724AA61FF9965FBD0C8",
+         "Tags": [
+            "TheCenter"
+         ]
+      },
+      {
+         "Title": "Ragnarok",
+         "Description": "Map assets from the Ragnarok DLC. Using these assets in mods will create a dependency on Ragnarok being installed in the live game.",
+         "IsRequired": "false",
+         "UniqueId": "DCF861DE262544D9842FF8B3AF075E44",
+         "Tags": [
+            "Ragnarok"
+         ]
+      },
+      {
+         "Title": "Valguero",
+         "Description": "Map assets from the Valguero DLC. Using these assets in mods will create a dependency on Valguero being installed in the live game.",
+         "IsRequired": "false",
+         "UniqueId": "85B78A4F82D24BB0803D1C9720C71489",
+         "Tags": [
+            "Valguero"
+         ]
+      }
+   ]
+}
