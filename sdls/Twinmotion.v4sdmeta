@@ -3,15 +3,9 @@
    "Builds" : [
       {
          "Namespace" : "poodle",
-         "Item" : "22b3fe13958b41a8b8c60d1d1a2d43f4",
-         "Asset" : "8f679cb5684c44b1aa3c45cd2a213fa2",
-         "Version" : "Regex(RELEASE_(?:WINDOWS|OSX)_(\\d+)\\.(\\d+)\\.(\\d+)) && (RegexGroupInt64(1) >= 2025) && (RegexGroupInt64(3) >= 40642457)"
-      },
-      {
-         "Namespace" : "poodle",
-         "Item" : "026348af9b054a26ba5e08451259e0cc",
-         "Asset" : "44e3691ff8014df8b7a9062ae494957f",
-         "Version" : "Regex(GAMEDEV_(?:WINDOWS|OSX)_(\\d+)\\.(\\d+)\\.(\\d+)) && (RegexGroupInt64(1) >= 2025) && (RegexGroupInt64(3) >= 40642457)"
+         "Item" : "256f0b687c2d433c975a844c62dc6341",
+         "Asset" : "02c6af5767b444d89f61e56a334aa2cc",
+         "Version" : "Regex(RELEASE_(?:WINDOWS|OSX)_(\\d+)\\.(\\d+)\\.(\\d+)) && (RegexGroupInt64(1) >= 2026) && (RegexGroupInt64(3) >= 50969066)"
       }
    ],
    "Data" : [
