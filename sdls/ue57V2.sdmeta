@@ -6,6 +6,12 @@
          "Item" : "7299c1cd206b4bb58658a98199b66860",
          "Asset" : "UE_5.7",
          "Version" : "Regex(5\\.7\\.(\\d+)-(\\d+).*) && RegexGroupInt64(2) >= 46275467"
+      },
+	  {
+         "Namespace" : "ue",
+         "Item" : "8c0404cd9ae7436f89f74829fd8a8bfd",
+         "Asset" : "UE_Chimera",
+         "Version" : "*"
       }
    ],
    "Data" : [
