@@ -287,8 +287,7 @@
          "Description_translate" : "true",
          "UniqueId" : "BC27D46CFC5347479B3F118F9A31EA06",
          "IsRequired" : "false",
-         "IsDefaultSelected" : "true",
-         "DefaultSelectedExpression" : "RandomAccessMemoryGB() >= 8",
+         "IsDefaultSelected" : "false",
          "Tags" : [
             "StartupOptional",
             "FrontEndOptional",
