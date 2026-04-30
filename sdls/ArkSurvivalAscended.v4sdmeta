@@ -37,6 +37,15 @@
          ]
       },
       {
+         "Title": "High Resolution Textures",
+         "Description": "Full Size texture assets for the game. These will be downloaded to the root of the DevKit installation under 'HQTextures'. To use them, just drop them over the content directory 'Projects/ShooterGame/Content' to override the low resolution textures. Most users will not need these files.",
+         "IsRequired": "false",
+         "UniqueId": "EAB35E1DB4A34D9A84BAC36CF977443A",
+         "Tags": [
+            "textures"
+         ]
+      },
+      {
          "Title": "Scorched Earth",
          "Description": "Map assets from the Scorched Earth DLC. Using these assets in mods will create a dependency on Scorched Earth being installed in the live game.",
          "IsRequired": "false",
