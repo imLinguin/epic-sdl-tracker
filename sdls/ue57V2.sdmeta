@@ -9,6 +9,12 @@
       },
 	  {
          "Namespace" : "ue",
+         "Item" : "18b3b415bc434c5b974f50488360ca31",
+         "Asset" : "UE_5.8",
+         "Version" : "*"
+      },
+	  {
+         "Namespace" : "ue",
          "Item" : "8c0404cd9ae7436f89f74829fd8a8bfd",
          "Asset" : "UE_Chimera",
          "Version" : "*"
