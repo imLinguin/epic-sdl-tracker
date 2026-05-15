@@ -1,0 +1,68 @@
+{
+   "DataType" : "SelDlMeta",
+   "Builds" : [
+      {
+         "Namespace" : "p-l86ua6ty75jtxnwzr3whblcqrz6rqp",
+         "Item" : "27556e7cd968479daee8cc7bd77aebdd",
+         "Asset" : "575efd0b5dd54429b035ffc8fe2d36d0",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "p-69lvlzd8s9bcf952u56bacuvtpfks4",
+         "Item" : "27556e7cd968479daee8cc7bd77aebdd",
+         "Asset" : "575efd0b5dd54429b035ffc8fe2d36d0",
+         "Version" : "*"
+      },
+      {
+         "Namespace" : "38e211ced4e448a5a653a8d1e13fef18",
+         "Item" : "27556e7cd968479daee8cc7bd77aebdd",
+         "Asset" : "575efd0b5dd54429b035ffc8fe2d36d0",
+         "Version" : "*"
+      }
+   ],
+   "Data" : [
+      {
+         "Title" : "HD Textures",
+         "Description" : "HD Textures – Experience Marvel Rivals in stunning detail!",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "DefaultSelectedExpression" : "RandomAccessMemoryGB() >= 8",
+         "UniqueId" : "9829FAC15E354A48B0DD2EC2063599D9",
+         "Tags" : [
+            "hd_textures"
+         ],
+         "Title_zh-CN" : "高分辨率贴图",
+         "Description_zh-CN" : "高分辨率贴图，提升《漫威争锋》画面质量",
+         "Title_zh-Hans" : "高分辨率贴图",
+         "Description_zh-Hans" : "高分辨率贴图，提升《漫威争锋》画面质量",
+         "Title_ja" : "HDテクスチャ",
+         "Description_ja" : "HDテクスチャ：『マーベル・ライバルズ』のグラフィック表現がより美しくなります。",
+         "Title_ko" : "HD 텍스처",
+         "Description_ko" : "HD 텍스처 – 마블 라이벌즈를 놀라운 디테일로 경험하세요!",
+         "Title_zh-Hant" : "HD紋理",
+         "Description_zh-Hant" : "HD紋理 – 以驚人細節體驗《漫威爭鋒》！",
+         "Title_de" : "HD-Texturen",
+         "Description_de" : "HD-Texturen – Erlebe Marvel Rivals in atemberaubendem Detail!",
+         "Title_fr" : "Textures HD",
+         "Description_fr" : "Textures HD – Vivez Marvel Rivals avec des détails époustouflants !",
+         "Title_es-MX" : "Texturas HD",
+         "Description_es-MX" : "Texturas HD – ¡Vive Marvel Rivals con el máximo detalle!",
+         "Title_pt-BR" : "Texturas em HD",
+         "Description_pt-BR" : "Texturas em HD: experimente Marvel Rivals com detalhes impressionantes!",
+         "Title_it" : "Strutture grafiche in HD",
+         "Description_it" : "Strutture grafiche in HD - Vivere Marvel Rivals in una fedeltà grafica senza fiato!",
+         "Title_ru" : "HD-текстуры",
+         "Description_ru" : "HD-текстуры — погрузитесь в мир Marvel Rivals с потрясающей детализацией!",
+         "Title_ar" : "خامات HD",
+         "Description_ar" : "خامات HD – اختبر Marvel Rivals بتفاصيل مذهلة!",
+         "Title_pl" : "Tekstury HD",
+         "Description_pl" : "Tekstury HD – Graj w Marvel Rivals w niesamowitej jakości!",
+         "Title_th" : "เท็กซ์เจอร์ HD",
+         "Description_th" : "เท็กซ์เจอร์ HD – สัมผัสประสบการณ์ Marvel Rivals ด้วยรายละเอียดอันน่าทึ่ง!",
+         "Title_tr" : "HD Dokular",
+         "Description_tr" : "HD Dokular – Marvel Rivals'ı etkileyici detaylarıyla deneyimleyin!",
+         "Title_es" : "Texturas HD",
+         "Description_es" : "Texturas HD: ¡experimenta Marvel Rivals con detalles impresionantes!"
+      }
+   ]
+}
