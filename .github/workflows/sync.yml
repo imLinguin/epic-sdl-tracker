@@ -11,7 +11,7 @@ jobs:
     sync:
         runs-on: ubuntu-slim
         steps:
-            - uses: actions/checkout@v4
+            - uses: actions/checkout@v6
             - name: Install requests
               run: pip3 install requests
             - name: Run sync
