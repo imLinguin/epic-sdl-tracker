@@ -4,6 +4,10 @@
 
 This repository automatically synchronizes latest SelectiveDL manifests used by EpicGamesLauncher to filter downloaded files based on given inputs.
 
+> [!IMPORTANT]
+> The repository is likely to never receive new updates.  
+> Given that Epic finally decided to ship SDLs alongside game manifests 
+
 ## How does it work?
 
 The automation uses EpicGamesLauncher's update system to pull latest  `.v#sdmeta` files.
