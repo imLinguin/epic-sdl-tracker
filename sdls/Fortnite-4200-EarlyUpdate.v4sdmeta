@@ -3,147 +3,15 @@
    "Builds" : [
       {
          "Namespace" : "fn",
-         "Item" : "b569d2c3aa994e43849d999146fdae01",
-         "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 54856796 && RegexGroupInt64(1) < 56123366)"
+         "Item" : "072312c5ca9f438c92a511857eac9200",
+         "Asset" : "FortniteNvidiaEarlyUpdate",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 42 && RegexGroupInt64(3) >= 56106768)"
       },
       {
          "Namespace" : "fn",
-         "Item" : "c48c129830b64e919c57711bfee27391",
-         "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 54856796 && RegexGroupInt64(1) < 56123366)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
-         "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 54856796 && RegexGroupInt64(1) < 56123366)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
-         "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 54856796 && RegexGroupInt64(1) < 56123366)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
-         "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 54856796 && RegexGroupInt64(1) < 56123366)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "057afc40829849e790b54addf45a976d",
-         "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 54856796 && RegexGroupInt64(1) < 56123366)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "b569d2c3aa994e43849d999146fdae01",
-         "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55052282 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "c48c129830b64e919c57711bfee27391",
-         "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55052282 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
-         "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55052282 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
-         "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55052282 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
-         "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55052282 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "057afc40829849e790b54addf45a976d",
-         "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55052282 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "b569d2c3aa994e43849d999146fdae01",
-         "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55415631 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "c48c129830b64e919c57711bfee27391",
-         "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55415631 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
-         "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55415631 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
-         "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55415631 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
-         "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55415631 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "057afc40829849e790b54addf45a976d",
-         "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55415631 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "b569d2c3aa994e43849d999146fdae01",
-         "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55483818 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "c48c129830b64e919c57711bfee27391",
-         "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55483818 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
-         "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55483818 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
-         "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55483818 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
-         "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55483818 && RegexGroupInt64(1) < 70000000)"
-      },
-      {
-         "Namespace" : "fn",
-         "Item" : "057afc40829849e790b54addf45a976d",
-         "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 55483818 && RegexGroupInt64(1) < 70000000)"
+         "Item" : "619437582af048b7866be79d299c0878",
+         "Asset" : "FortniteDevPlaytestO",
+         "Version" : "Regex(\\+\\+Fortnite\\+Release-(\\d+)\\.(\\d+).*-CL-(\\d+)-.*) && (RegexGroupInt64(1) >= 42 && RegexGroupInt64(3) >= 56106768)"
       }
    ],
    "Data" : [
@@ -178,6 +46,10 @@
             "FortniteBR",
             "FortniteCatchAll",
             "FNOne",
+            "Langde",
+            "Langfr",
+            "Langpl",
+            "Langru",
             ""
          ],
          "Title_fr" : "Fortnite Core, Battle Royale et Sauver le monde",
@@ -252,7 +124,7 @@
          "Description_translate" : "true",
          "UniqueId" : "BC27D46CFC5347479B3F118F9A31EA06",
          "IsRequired" : "false",
-         "IsDefaultSelected" : "false",
+         "IsDefaultSelected" : "true",
          "Tags" : [
             "StartupOptional",
             "FrontEndOptional",
@@ -272,7 +144,11 @@
             "GFP_SaveTheWorldRootOptional",
             "FortniteBROptional",
             "FortniteCatchAllOptional",
-            "FNOneOptional"
+            "FNOneOptional",
+            "LangdeOptional",
+            "LangfrOptional",
+            "LangplOptional",
+            "LangruOptional"
          ],
          "Title_fr" : "Textures haute résolution",
          "Description_fr" : "Fichiers requis pour jouer à Fortnite dans toute sa splendeur.",
@@ -336,6 +212,81 @@
          "Description_ms" : "Fail yang diperlukan untuk bermain Fortnite dengan lebih cantik.",
          "Title_fil" : "Mga Texture na Mataas na Resolusyon",
          "Description_fil" : "Kailangan ang mga file para mas maganda ang paglalaro ng Fortnite."
+      },
+      {
+         "Title" : "Install Streamed Assets",
+         "Title_translate" : "true",
+         "Description" : "Installs assets that would normally be streamed during gameplay.",
+         "Description_translate" : "true",
+         "UniqueId" : "4b4f695c1e7948ea963ba2cd00908d87",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "Tags" : [
+            "FortniteBROnDemand",
+            "FortniteBROnDemandOptional"
+         ],
+         "Title_fr" : "Pré-télécharger les visuels diffusés",
+         "Description_fr" : "Installez tous les visuels qui seraient normalement diffusés pendant la partie.",
+         "Title_it" : "Pre-scarica le risorse trasmesse",
+         "Description_it" : "Installa tutte le risorse che normalmente vengono trasmesse durante il gameplay.",
+         "Title_de" : "Gestreamte Elemente vorab herunterladen",
+         "Description_de" : "Installiert alle Elemente, die normalerweise während des Gameplays gestreamt würden.",
+         "Title_es" : "Predescargar recursos transmitidos",
+         "Description_es" : "Instala todos los recursos que normalmente se transmitirían durante la partida.",
+         "Title_es-MX" : "Predescargar recursos transmitidos",
+         "Description_es-MX" : "Instala todos los recursos que normalmente se transmitirían durante la partida.",
+         "Title_ru" : "Предзагрузка транслируемых элементов",
+         "Description_ru" : "Устанавливает все элементы, которые обычно транслируются во время игры.",
+         "Title_pl" : "Wstępne pobranie transmitowanych elementów",
+         "Description_pl" : "Powoduje zainstalowanie wszystkich elementów, które zazwyczaj są transmitowane podczas rozgrywki.",
+         "Title_ar" : "تنزيل أصول البث مسبقًا",
+         "Description_ar" : "يقوم بتثبيت جميع الأصول التي يتم بثها عادةً أثناء اللعب.",
+         "Title_ko" : "스트리밍된 애셋 사전 다운로드",
+         "Description_ko" : "일반적으로 게임플레이 중에 스트리밍되는 모든 애셋을 설치합니다.",
+         "Title_ja" : "配信アセットをプレダウンロードする",
+         "Description_ja" : "ゲームプレイ中に通常配信される、すべてのアセットをインストールする。",
+         "Title_zh-Hans" : "预下载直播资源",
+         "Description_zh-Hans" : "安装一般在游戏过程中直播的所有资源。",
+         "Title_zh-Hant" : "預先下載即時讀取素材",
+         "Description_zh-Hant" : "安裝所有在遊玩時通常會被即時讀取的素材。",
+         "Title_pt-BR" : "Fazer pré-download dos ativos transmitidos",
+         "Description_pt-BR" : "Instala todos os ativos que geralmente seriam transmitidos durante o jogo.",
+         "Title_tr" : "Veri Akışı Öğelerini Önceden İndir",
+         "Description_tr" : "Normalde oynanış esnasında geçici olarak indirilen tüm öğe verilerini tek seferde indirir.",
+         "Title_th" : "ดาวน์โหลดแอสเซทสตรีมล่วงหน้า",
+         "Description_th" : "ติดตั้งแอสเซทสตรีมทั้งหมดที่โดยปกติแล้วจะสตรีมระหว่างการเล่นเกม",
+         "Title_nl" : "Streamingassets vooraf downloaden",
+         "Description_nl" : "Installeert alle assets die normaal tijdens het spelen worden gestreamd.",
+         "Title_sv" : "Tidigare nedladdade streamingtillgångar",
+         "Description_sv" : "Installera alla tillgångar för som normalt streamas när du spelar.",
+         "Title_cs" : "Předběžné stažení streamovaných prvků",
+         "Description_cs" : "Nainstaluje všechny prvky, které by se normálně streamovaly během hraní.",
+         "Title_da" : "Download streamede aktiver på forhånd",
+         "Description_da" : "Installerer alle aktiver, der normalt ville blive streamet under spillet.",
+         "Title_no" : "Forhåndsnedlastede strømmede ressurser",
+         "Description_no" : "Installerer alle ressurser som normal vil bli strømmet under spillet.",
+         "Title_fi" : "Lataa striimatut resurssit ennakkoon",
+         "Description_fi" : "Asentaa kaikki resurssit, jotka tavallisesti striimattaisiin pelaamisen aikana.",
+         "Title_pt" : "Pré-transferir recursos em streaming",
+         "Description_pt" : "Instala todos os recursos que normalmente seriam transferidos durante o jogo.",
+         "Title_hu" : "Előre letöltött streamelt eszközök",
+         "Description_hu" : "Telepíti az összes olyan eszközt, amelyeket normál esetben a rendszer a játék során streamelne.",
+         "Title_ro" : "Elemente redate în flux descărcate anticipat",
+         "Description_ro" : "Instalează toate elementele ce ar fi în mod obișnuit redate în flux în timpul jocului.",
+         "Title_id" : "Pra-unduh Aset Streaming",
+         "Description_id" : "Menginstal semua aset yang biasanya disiarkan selama game.",
+         "Title_vi" : "Tải về sẵn Tài sản Phát trực tiếp",
+         "Description_vi" : "Cài đặt tất cả tài sản thường được phát trực tiếp trong khi chơi trò chơi.",
+         "Title_bg" : "Предварително изтегляне на стриймвани активи",
+         "Description_bg" : "Инсталира всички активи, които обикновено биха се стриймвали по време на игра.",
+         "Title_uk" : "Попереднє завантаження потокових ресурсів",
+         "Description_uk" : "Установлює всі активи, які зазвичай транслюються під час гри.",
+         "Title_hi" : "स्ट्रीम की गई एसेट्स को पहेले से डाउनलोड करें",
+         "Description_hi" : "सभी एसेट्स को इंस्टॉल करता है जिन्हें सामान्य रूप से गेमप्ले के दौरान स्ट्रीम किया जाता है।",
+         "Title_ms" : "Pramuat turun Aset Distrim",
+         "Description_ms" : "Memasang semua aset penstriman yang biasanya distrim semasa bermain permainan.",
+         "Title_fil" : "Paunang I-download ang Streamed Assets",
+         "Description_fil" : "Ini-install ang lahat ng asset na karaniwang na-stream sa panahon ng gameplay."
       }
    ]
 }

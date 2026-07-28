@@ -5,217 +5,217 @@
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 54856796)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 56123366)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 54856796)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 56123366)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 54856796)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 56123366)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 54856796)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 56123366)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 54856796)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 56123366)"
       },
       {
          "Namespace" : "fn",
          "Item" : "057afc40829849e790b54addf45a976d",
          "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 54856796)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 56123366)"
       },
       {
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55052282)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55052282)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55052282)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55052282)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55052282)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "057afc40829849e790b54addf45a976d",
          "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55052282)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-MergePrep-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55415631)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55415631)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55415631)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55415631)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55415631)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "057afc40829849e790b54addf45a976d",
          "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55415631)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev(?!.*-Staging)(?!.*-Stable)(?!.*-MergePrep).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "057afc40829849e790b54addf45a976d",
          "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Dev.*-Stable-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 51781851 && RegexGroupInt64(1) < 55483818)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 51781851 && RegexGroupInt64(1) < 55483818)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 51781851 && RegexGroupInt64(1) < 55483818)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 51781851 && RegexGroupInt64(1) < 55483818)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 51781851 && RegexGroupInt64(1) < 55483818)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "057afc40829849e790b54addf45a976d",
          "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 51781851 && RegexGroupInt64(1) < 55483818)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner.*-Staging-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "b569d2c3aa994e43849d999146fdae01",
          "Asset" : "ee1650eb6c8d47ebb1080e8d403276b3",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52594388 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "c48c129830b64e919c57711bfee27391",
          "Asset" : "FortniteFlames",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52594388 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "25579ea295ac4ab093ff5647dba8eb2e",
          "Asset" : "59c73500e48f4411a0a852b3e4502c42",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52594388 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "cbf290edbc8f41e1bd68f1deabadfd5e",
          "Asset" : "a6ca9357458d44b292f707154ec51d98",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52594388 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "2fef9fec71ee4b50a0343e9b550ea497",
          "Asset" : "80db304194914e2489c5b6fb9976c6d9",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52594388 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       },
       {
          "Namespace" : "fn",
          "Item" : "057afc40829849e790b54addf45a976d",
          "Asset" : "db22ef98e8c74488a0d3585025fd88ad",
-         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52594388 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+Partner(?!.*-Staging).*-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 70000000)"
       }
    ],
    "Data" : [
@@ -234,6 +234,7 @@
             "DefaultGameplayChunk",
             "UnusedOldEarlyStartupPatcherChunk",
             "CosmeticPreInstall",
+            "FatCosmo",
             "GFP_BaseInstallRoot",
             "GFP_BRCosmetics",
             "GFP_BRCosmeticsInstallOnDemand",
@@ -317,95 +318,79 @@
          "Description_fil" : "Kailangan ang mga karaniwang file para makapaglaro ng Fortnite at ang kabuuan ng Battle Royale at Save the World."
       },
       {
-         "Title" : "High Resolution Textures",
+         "Title" : "Install Streamed Assets",
          "Title_translate" : "true",
-         "Description" : "Files required to play Fortnite more beautifully.",
+         "Description" : "Installs assets that would normally be streamed during gameplay.",
          "Description_translate" : "true",
-         "UniqueId" : "BC27D46CFC5347479B3F118F9A31EA06",
+         "UniqueId" : "4b4f695c1e7948ea963ba2cd00908d87",
          "IsRequired" : "false",
          "IsDefaultSelected" : "false",
          "Tags" : [
-            "StartupOptional",
-            "FrontEndOptional",
-            "EncryptedOptional",
-            "DefaultGameplayChunkOptional",
-            "CosmeticPreInstallOptional",
-            "GFP_BaseInstallRootOptional",
-            "GFP_BRCosmeticsOptional",
-            "GFP_CreativeRootOptional",
-            "GFP_BRRootOptional",
-            "GFP_JunoRootOptional",
-            "GFP_DelMarRootOptional",
-            "GFP_SparksOptional",
-            "GFP_BlitzRootOptional",
-            "GFP_StrideMiceRootOptional",
-            "GFP_SaveTheWorldRootOptional",
-            "FortniteBROptional",
-            "FortniteCatchAllOptional",
-            "FNOneOptional"
+            "FortniteBROnDemand",
+            "FortniteBROnDemandOptional"
          ],
-         "Title_fr" : "Textures haute résolution",
-         "Description_fr" : "Fichiers requis pour jouer à Fortnite dans toute sa splendeur.",
-         "Title_it" : "Texture ad alta risoluzione",
-         "Description_it" : "File necessari per giocare a una versione abbellita di Fortnite.",
-         "Title_de" : "Hochaufgelöste Texturen",
-         "Description_de" : "Dateien, die benötigt werden, um Fortnite mit schönerer Grafik zu spielen.",
-         "Title_es" : "Texturas en alta resolución",
-         "Description_es" : "Archivos necesarios para embellecer Fortnite.",
-         "Title_es-MX" : "Texturas de alta resolución",
-         "Description_es-MX" : "Archivos necesarios para embellecer Fortnite.",
-         "Title_ru" : "Текстуры высокого разрешения",
-         "Description_ru" : "С этими файлами, ваш Fortnite станет ещё красивее.",
-         "Title_pl" : "Tekstury wysokiej rozdzielczości",
-         "Description_pl" : "Pliki wymagane do piękniejszej gry w Fortnite.",
-         "Title_ar" : "مواد عالية الدقة",
-         "Description_ar" : "الملفات المطلوبة للعب Fortnite بشكل أكثر جمالاً.",
-         "Title_ko" : "고해상도 텍스처",
-         "Description_ko" : "포트나이트를 더 아름답게 플레이하는 데 필요한 파일입니다.",
-         "Title_ja" : "高解像度テクスチャ",
-         "Description_ja" : "『フォートナイト』をより美しくプレイするにはファイルが必要です。",
-         "Title_zh-Hans" : "高分辨率贴图",
-         "Description_zh-Hans" : "提高《Fortnite》游戏图形质量所需的文件。",
-         "Title_zh-Hant" : "高解析度材質",
-         "Description_zh-Hant" : "讓 Fortnite 畫面更漂亮的必要檔案。",
-         "Title_pt-BR" : "Texturas de alta resolução",
-         "Description_pt-BR" : "Arquivos necessários para jogar Fortnite com mais beleza.",
-         "Title_tr" : "Yüksek Çözünürlüklü Dokular",
-         "Description_tr" : "Fortnite'ı daha güzel oynamak için gereken dosyalar.",
-         "Title_th" : "พื้นผิวความละเอียดสูง",
-         "Description_th" : "ต้องมีไฟล์เพื่อให้เล่น Fortnite ได้งดงามยิ่งขึ้น",
-         "Title_nl" : "Texturen in hoge resolutie",
-         "Description_nl" : "Vereiste bestanden om Fortnite nog mooier te spelen.",
-         "Title_sv" : "Texturer vid hög upplösning",
-         "Description_sv" : "Filer som krävs för att spela Fortnite smidigare.",
-         "Title_cs" : "Textury ve vysokém rozlišení",
-         "Description_cs" : "Soubory potřebné ke hraní Fortnite v lepší kvalitě.",
-         "Title_da" : "Teksturer i høj opløsning",
-         "Description_da" : "Filer, der kræves for at spille et smukkere Fortnite.",
-         "Title_no" : "Teksturer med høy oppløsning",
-         "Description_no" : "Filer kreves for å spille Fortnite vakrere.",
-         "Title_fi" : "Korkean resoluution rakenteet",
-         "Description_fi" : "Tiedostot, jotka vaaditaan Fortniten laadukkaampaan pelaamiseen.",
-         "Title_pt" : "Texturas de alta resolução",
-         "Description_pt" : "Ficheiros necessários para jogar Fortnite de forma mais bela.",
-         "Title_hu" : "Nagy felbontású textúrák",
-         "Description_hu" : "A Fortnite szebb megjelenítéséhez szükséges fájlok.",
-         "Title_ro" : "Texturi pentru rezoluție înaltă",
-         "Description_ro" : "Fișiere necesare pentru a juca Fortnite mai frumos.",
-         "Title_id" : "Tekstur Resolusi Tinggi",
-         "Description_id" : "File yang dibutuhkan untuk memainkan Fortnite dengan lebih baik.",
-         "Title_vi" : "Kết cấu Độ phân giải Cao",
-         "Description_vi" : "Phải có các tập tin để chơi Fortnite đẹp hơn.",
-         "Title_bg" : "Текстури с висока разделителна способност",
-         "Description_bg" : "Файлове, необходими за по-красива игра на Fortnite.",
-         "Title_uk" : "Текстури високої роздільності",
-         "Description_uk" : "Файли, необхідні для поліпшення графіки Fortnite.",
-         "Title_hi" : "उच्च रिज़ॉल्यूशन बनावट",
-         "Description_hi" : "Fortnite को अधिक सुंदरता से खेलने के लिए आवश्यक फ़ाइल्स।",
-         "Title_ms" : "Tekstur Resolusi Tinggi",
-         "Description_ms" : "Fail yang diperlukan untuk bermain Fortnite dengan lebih cantik.",
-         "Title_fil" : "Mga Texture na Mataas na Resolusyon",
-         "Description_fil" : "Kailangan ang mga file para mas maganda ang paglalaro ng Fortnite."
+         "Title_fr" : "Pré-télécharger les visuels diffusés",
+         "Description_fr" : "Installez tous les visuels qui seraient normalement diffusés pendant la partie.",
+         "Title_it" : "Pre-scarica le risorse trasmesse",
+         "Description_it" : "Installa tutte le risorse che normalmente vengono trasmesse durante il gameplay.",
+         "Title_de" : "Gestreamte Elemente vorab herunterladen",
+         "Description_de" : "Installiert alle Elemente, die normalerweise während des Gameplays gestreamt würden.",
+         "Title_es" : "Predescargar recursos transmitidos",
+         "Description_es" : "Instala todos los recursos que normalmente se transmitirían durante la partida.",
+         "Title_es-MX" : "Predescargar recursos transmitidos",
+         "Description_es-MX" : "Instala todos los recursos que normalmente se transmitirían durante la partida.",
+         "Title_ru" : "Предзагрузка транслируемых элементов",
+         "Description_ru" : "Устанавливает все элементы, которые обычно транслируются во время игры.",
+         "Title_pl" : "Wstępne pobranie transmitowanych elementów",
+         "Description_pl" : "Powoduje zainstalowanie wszystkich elementów, które zazwyczaj są transmitowane podczas rozgrywki.",
+         "Title_ar" : "تنزيل أصول البث مسبقًا",
+         "Description_ar" : "يقوم بتثبيت جميع الأصول التي يتم بثها عادةً أثناء اللعب.",
+         "Title_ko" : "스트리밍된 애셋 사전 다운로드",
+         "Description_ko" : "일반적으로 게임플레이 중에 스트리밍되는 모든 애셋을 설치합니다.",
+         "Title_ja" : "配信アセットをプレダウンロードする",
+         "Description_ja" : "ゲームプレイ中に通常配信される、すべてのアセットをインストールする。",
+         "Title_zh-Hans" : "预下载直播资源",
+         "Description_zh-Hans" : "安装一般在游戏过程中直播的所有资源。",
+         "Title_zh-Hant" : "預先下載即時讀取素材",
+         "Description_zh-Hant" : "安裝所有在遊玩時通常會被即時讀取的素材。",
+         "Title_pt-BR" : "Fazer pré-download dos ativos transmitidos",
+         "Description_pt-BR" : "Instala todos os ativos que geralmente seriam transmitidos durante o jogo.",
+         "Title_tr" : "Veri Akışı Öğelerini Önceden İndir",
+         "Description_tr" : "Normalde oynanış esnasında geçici olarak indirilen tüm öğe verilerini tek seferde indirir.",
+         "Title_th" : "ดาวน์โหลดแอสเซทสตรีมล่วงหน้า",
+         "Description_th" : "ติดตั้งแอสเซทสตรีมทั้งหมดที่โดยปกติแล้วจะสตรีมระหว่างการเล่นเกม",
+         "Title_nl" : "Streamingassets vooraf downloaden",
+         "Description_nl" : "Installeert alle assets die normaal tijdens het spelen worden gestreamd.",
+         "Title_sv" : "Tidigare nedladdade streamingtillgångar",
+         "Description_sv" : "Installera alla tillgångar för som normalt streamas när du spelar.",
+         "Title_cs" : "Předběžné stažení streamovaných prvků",
+         "Description_cs" : "Nainstaluje všechny prvky, které by se normálně streamovaly během hraní.",
+         "Title_da" : "Download streamede aktiver på forhånd",
+         "Description_da" : "Installerer alle aktiver, der normalt ville blive streamet under spillet.",
+         "Title_no" : "Forhåndsnedlastede strømmede ressurser",
+         "Description_no" : "Installerer alle ressurser som normal vil bli strømmet under spillet.",
+         "Title_fi" : "Lataa striimatut resurssit ennakkoon",
+         "Description_fi" : "Asentaa kaikki resurssit, jotka tavallisesti striimattaisiin pelaamisen aikana.",
+         "Title_pt" : "Pré-transferir recursos em streaming",
+         "Description_pt" : "Instala todos os recursos que normalmente seriam transferidos durante o jogo.",
+         "Title_hu" : "Előre letöltött streamelt eszközök",
+         "Description_hu" : "Telepíti az összes olyan eszközt, amelyeket normál esetben a rendszer a játék során streamelne.",
+         "Title_ro" : "Elemente redate în flux descărcate anticipat",
+         "Description_ro" : "Instalează toate elementele ce ar fi în mod obișnuit redate în flux în timpul jocului.",
+         "Title_id" : "Pra-unduh Aset Streaming",
+         "Description_id" : "Menginstal semua aset yang biasanya disiarkan selama game.",
+         "Title_vi" : "Tải về sẵn Tài sản Phát trực tiếp",
+         "Description_vi" : "Cài đặt tất cả tài sản thường được phát trực tiếp trong khi chơi trò chơi.",
+         "Title_bg" : "Предварително изтегляне на стриймвани активи",
+         "Description_bg" : "Инсталира всички активи, които обикновено биха се стриймвали по време на игра.",
+         "Title_uk" : "Попереднє завантаження потокових ресурсів",
+         "Description_uk" : "Установлює всі активи, які зазвичай транслюються під час гри.",
+         "Title_hi" : "स्ट्रीम की गई एसेट्स को पहेले से डाउनलोड करें",
+         "Description_hi" : "सभी एसेट्स को इंस्टॉल करता है जिन्हें सामान्य रूप से गेमप्ले के दौरान स्ट्रीम किया जाता है।",
+         "Title_ms" : "Pramuat turun Aset Distrim",
+         "Description_ms" : "Memasang semua aset penstriman yang biasanya distrim semasa bermain permainan.",
+         "Title_fil" : "Paunang I-download ang Streamed Assets",
+         "Description_fil" : "Ini-install ang lahat ng asset na karaniwang na-stream sa panahon ng gameplay."
       }
    ]
 }
