@@ -1727,25 +1727,25 @@
          "Namespace" : "fn",
          "Item" : "480ebc8605c94d319f7a453375b7209e",
          "Asset" : "29b2e15b98e74c4cb1867aafcb3e6d8e",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55849721)"
       },
       {
          "Namespace" : "fn",
          "Item" : "bbcbfcb9dd1c4f45969b269a28ddc431",
          "Asset" : "beb8ae15a3ae4c1681a4dc1aaf531d72",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55849721)"
       },
       {
          "Namespace" : "fn",
          "Item" : "6027635d656d4766b251c2a40d4e8535",
          "Asset" : "FortniteFlapper",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55849721)"
       },
       {
          "Namespace" : "fn",
          "Item" : "a1cff5b7f8af4060b62d6148dbf1ba73",
          "Asset" : "61c8cfa7f26e4bfb9e212076ea10eab3",
-         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 70000000)"
+         "Version" : "Regex(\\+\\+Fortnite\\+(?:Dev-Coronado-?.*)-CL-(\\d+)-?.*) && (RegexGroupInt64(1) >= 52110690 && RegexGroupInt64(1) < 55849721)"
       }
    ],
    "Data" : [
