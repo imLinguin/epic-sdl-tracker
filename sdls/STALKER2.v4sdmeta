@@ -111,48 +111,6 @@
          "Description_fil" : "SDK na may user interface ng Unreal editor."
       },
       {
-         "Title" : "Cutscenes",
-         "Description" : "Сhunk with in-game cinematics.",
-         "Description_translate" : "true",
-         "IsRequired" : "false",
-         "IsDefaultSelected" : "true",
-         "UniqueId" : "B0E41D522AB748BA95ED6D5ABA6A6307",
-         "Tags" : [
-            "Cutscenes"
-         ],
-         "Description_fr" : "Chunk avec les cinématiques en jeu.",
-         "Description_it" : "Materiale con filmati di gioco.",
-         "Description_de" : "Chunk mit Zwischensequenzen im Spiel.",
-         "Description_es" : "Colección con cinemáticas del juego.",
-         "Description_es-MX" : "Chunk con cinemáticas dentro del juego.",
-         "Description_ru" : "Блок данных с игровыми видео.",
-         "Description_pl" : "Blok danych z przerywnikami filmowymi w grze.",
-         "Description_ar" : "كتلة بيانات تضم المشاهد السينمائية داخل اللعبة.",
-         "Description_ko" : "게임 내 시네마틱이 포함된 청크입니다.",
-         "Description_ja" : "ゲーム内シネマティックを備えたチャンク。",
-         "Description_zh-Hans" : "带有游戏内过场动画。",
-         "Description_zh-Hant" : "包含遊戲內電影場景的資料區塊。",
-         "Description_pt-BR" : "Сhunk com cinemáticas do jogo.",
-         "Description_tr" : "Oyun içi sinematikler yığını.",
-         "Description_th" : "เต็มไปด้วยฉากแอ็คชั่นในเกม",
-         "Description_nl" : "Сhunk met in-game cinematics.",
-         "Description_sv" : "Сhunk med filmsekvenser i spelet.",
-         "Description_cs" : "Chunk s herní kinematografií.",
-         "Description_da" : "Stykke med mellemsekvenser fra spillet.",
-         "Description_no" : "Del med mellomsekvenser.",
-         "Description_fi" : "Pelinsisäisiä elokuvaosuuksia.",
-         "Description_pt" : "Parte com sequências cinematográficas no jogo.",
-         "Description_hu" : "Játékon belüli videókat tartalmazó csomag.",
-         "Description_ro" : "Porțiune cu secvențe cinematice din joc.",
-         "Description_id" : "Chunk dengan sinematik dalam game.",
-         "Description_vi" : "Phân khúc với đoạn phim trong trò chơi.",
-         "Description_bg" : "Раздел със синематика в играта.",
-         "Description_uk" : "Чанк з ігровими відеовставками.",
-         "Description_hi" : "इन-गेम सिनेमैटिक्स के साथ चंक।",
-         "Description_ms" : "Segmen dengan sinematik dalam permainan.",
-         "Description_fil" : "Сhunk na may in-game cinematics."
-      },
-      {
          "Title" : "World Map",
          "Description" : "Chunk with World Map actors.",
          "Description_translate" : "true",
@@ -193,6 +151,28 @@
          "Description_hi" : "वर्ल्ड मैप एक्टर्स वाले चंक।",
          "Description_ms" : "Segmen dengan pelakon Peta Dunia.",
          "Description_fil" : "Chunk na may mga World Map actor."
+      },
+      {
+         "Title" : "Pre-renders",
+         "Description" : "Chunk with in-game pre-rendered cinematics.",
+         "Description_translate" : "true",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "UniqueId" : "7A5DE81CAA03415A90EDFEB9B8C1D070",
+         "Tags" : [
+            "Prerenders"
+         ]
+      },
+      {
+         "Title" : "Audio via Wwise",
+         "Description" : "Chunk with audio files, addable via Wwise's free license.",
+         "Description_translate" : "true",
+         "IsRequired" : "false",
+         "IsDefaultSelected" : "true",
+         "UniqueId" : "F600E030609349BD8226F875F61E99C6",
+         "Tags" : [
+            "Wwise"
+         ]
       }
    ]
 }
