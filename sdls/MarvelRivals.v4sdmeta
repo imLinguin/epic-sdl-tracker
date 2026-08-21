@@ -25,8 +25,7 @@
          "Title" : "HD Textures",
          "Description" : "HD Textures – Experience Marvel Rivals in stunning detail!",
          "IsRequired" : "false",
-         "IsDefaultSelected" : "true",
-         "DefaultSelectedExpression" : "RandomAccessMemoryGB() >= 8",
+         "IsDefaultSelected" : "false",
          "UniqueId" : "9829FAC15E354A48B0DD2EC2063599D9",
          "Tags" : [
             "hd_textures"
