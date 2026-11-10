@@ -13,6 +13,12 @@
          "Asset" : "UE_5.8",
          "Version" : "*"
       },
+      {
+         "Namespace" : "ue",
+         "Item" : "bcb2c746e050475bb0a0363aa5a8dff9",
+         "Asset" : "UE_5.9",
+         "Version" : "*"
+      },
 	  {
          "Namespace" : "ue",
          "Item" : "8c0404cd9ae7436f89f74829fd8a8bfd",
